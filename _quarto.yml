@@ -3,20 +3,20 @@ project:
   output-dir: docs
   
 website:
-  title: "MY WEB SITE"
+  title: "Yu-Anis Aruga"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - projects.qmd
     tools:
-      - icon: twitter
+      - icon: twitter-x
         href: https://twitter.com/
-      - icon: github
+      - icon: facebook
         href: https://github.com/YOURUSERNAME/YOURREPO
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    left: "&copy; Copyright 2024, Yu-Anis Aruga"
 
 format:
   html:
