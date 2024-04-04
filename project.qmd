@@ -1,8 +1,9 @@
 ---
 title: "Project"
+toc: false
 about:
   id: me
-  template: trestles
+  template: marquee
 ---
 現在、以下の２つの研究プロジェクトを遂行しています。（2024/04/04更新）
 

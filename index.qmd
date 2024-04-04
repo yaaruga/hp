@@ -9,6 +9,5 @@ about:
 
 社会学（社会学、人種・エスニシティ論）を専門とする研究者、有賀ゆうアニースのウェブサイトです。
 
-This is a website of Yu-Anis Aruga (有賀 ゆうアニース), Research Fellow at Osaka Metropolitan University, Japan.
-
+This is a website of Yu-Anis Aruga (有賀 ゆうアニース), Research Fellow at Osaka Metropolitan University, Japan. Ethnicity, Race
 :::
