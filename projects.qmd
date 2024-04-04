@@ -1,5 +1,7 @@
 ---
 title: "Projects"
+about:
+  id: me
 ---
 
 ## Project 1
