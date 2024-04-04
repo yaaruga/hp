@@ -9,11 +9,15 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: Home
-      - work.qmd
-      - projects.qmd
-      - Contact.qmd
-      - resource.qmd
+        text: About
+      - href: work.qmd
+        text: Work
+      - href: project.qmd
+        text: Project
+      - href: contact.qmd
+        text: Contact
+      - href: resource.qmd
+        text: Resource
     tools:
       - icon: twitter-x
         href: https://twitter.com/yu78730833

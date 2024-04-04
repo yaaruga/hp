@@ -2,8 +2,4 @@
 title: "Resource"
 ---
 
-## Project 1
-
-## Project 2
-
-## Project 3
+## Under Construction...
