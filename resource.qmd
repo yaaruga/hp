@@ -1,5 +1,8 @@
 ---
 title: "Resource"
+about:
+  id: me
+  template: marquee
 ---
 
 ## Under Construction...

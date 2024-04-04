@@ -25,6 +25,8 @@ website:
         href: https://www.facebook.com/yuanis.aruga/
       - icon: instagram
         href: https://www.instagram.com/arugaaayyy/
+      - image: img/asahi.jpg
+
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; C

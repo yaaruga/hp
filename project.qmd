@@ -3,9 +3,11 @@ title: "Project"
 about:
   id: me
   template: trestles
-  image: img/asahi.jpg
 ---
+現在、以下の２つの研究プロジェクトを遂行しています。（2024/04/04更新）
 
-## PRJ1:
+## PRJ1:外国にルーツを持つ若者の生活と意識に関する研究（2022年〜）
 
-## PRJ2:
+
+## PRJ2:戦後日本における「混血児問題」に関する研究（2020年〜）
+
