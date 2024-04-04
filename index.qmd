@@ -1,19 +1,14 @@
 ---
-title: "About Me"
+title: "Wecome to Yu-Anis Aruga's Website!"
 about:
   id: me
-  template: broadside
-  image: img/profile.png
+  template: jolla
 ---
 
 :::{#me}
 
-## Goals
+社会学（社会学、人種・エスニシティ論）を専門とする研究者、有賀ゆうアニースのウェブサイトです。
 
-## Education
-
-## Experience
+This is a website of Yu-Anis Aruga (有賀 ゆうアニース), Research Fellow at Osaka Metropolitan University, Japan.
 
 :::
-
-Thanks for checking out my web site!
