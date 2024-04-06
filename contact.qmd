@@ -1,12 +1,14 @@
 ---
-title: "Contact"
+title: "連絡 Contact"
 about:
   id: me
   template: marquee
 ---
 
-執筆や共同調査、ゲスト・非常勤講師のご依頼、調査プロジェクト等に関するご質問・ご依頼など、お気軽にご連絡ください。メールアドレス、もしくは以下の専用フォームからご連絡をお願いいたします。
+執筆や共同調査、ゲスト・非常勤講師のご依頼、調査プロジェクト等に関するご質問・ご依頼など、お気軽にご連絡ください。※ [at]を記号に置き換えた上でご連絡ください。
 
-メールアドレス： yaarugannw[at]gmail.com
+I can be reached at the address below.
 
-※ [at]を記号に置き換えた上でご連絡ください。
+**yaarugannw[at]gmail.com**
+
+
