@@ -5,6 +5,7 @@ about:
   template: marquee
 ---
 私の過去の研究活動の成果をまとめています。
+
 The Followings are outputs of my research activities.
 
 ## 査読論文 Peer-Reviewed Articles
@@ -24,19 +25,19 @@ The Followings are outputs of my research activities.
 - Sato, Yuna, Yu-Anis Aruga, and Sayaka Osanami-Törngren., 2023,  “Reimagining Japan through the experiences of mixed Japanese,” Tanaka, Kimiko and Selin, Helaineed., eds., *Gender, Safety, Inequality: Key Challenges for Japan*, Springer, 293-308. [Link](https://link.springer.com/chapter/10.1007/978-3-031-36331-3_20)
 
 ## 学会発表 Conference Presentations
-- 有賀ゆうアニース，2019，「差別をどうやって「問題」化するか――1950年代『婦人公論』と「混血児の母」」カルチュラル・タイフーン2019，2019年6月2日．
+- 有賀ゆうアニース，2019，「差別をどうやって「問題」化するか――1950年代『婦人公論』と「混血児の母」」カルチュラル・タイフーン2019，2019年6月2日．[Link](https://researchmap.jp/ya-ruga/presentations/24505175)
 
-- 有賀ゆうアニース，2021，「戦後「混血児問題」における<反人種差別>の論理――「混血児」概念の文脈と用法に着目して」日本社会学会大会第94回大会，2021年11月13日．
+- 有賀ゆうアニース，2021，「戦後「混血児問題」における<反人種差別>の論理――「混血児」概念の文脈と用法に着目して」日本社会学会大会第94回大会，2021年11月13日．[Link](https://researchmap.jp/ya-ruga/presentations/35854174)
 
-- 有賀ゆうアニース，2022，「「ハーフ」は偏見・差別経験をいかに語りうるのか――多人種的背景を持つ人々の相互行為への会話分析的アプローチ」第70回関東社会学会大会，2022 年6月19日．
+- 有賀ゆうアニース，2022，「「ハーフ」は偏見・差別経験をいかに語りうるのか――多人種的背景を持つ人々の相互行為への会話分析的アプローチ」第70回関東社会学会大会，2022 年6月19日．[Link](https://researchmap.jp/ya-ruga/presentations/37167773)
 
-- 有賀ゆうアニース，2022，「「ハーフ」の経験はいかにソーシャルメディア上で共有されるのか――動画およびコメント欄への会話分析的アプローチ」日本メディア学会2022年度春季大会，2022年6月5日．
+- 有賀ゆうアニース，2022，「「ハーフ」の経験はいかにソーシャルメディア上で共有されるのか――動画およびコメント欄への会話分析的アプローチ」日本メディア学会2022年度春季大会，2022年6月5日．[Link](https://researchmap.jp/ya-ruga/presentations/37167804)
 
-- 有賀ゆうアニース，2022，「「復興五輪」とマスメディアの10年――全国紙・地方紙記事の内容分析から」カルチュラル・タイフーン2022，2022年9月17日．
+- 有賀ゆうアニース，2022，「「復興五輪」とマスメディアの10年――全国紙・地方紙記事の内容分析から」カルチュラル・タイフーン2022，2022年9月17日．[Link](https://researchmap.jp/ya-ruga/presentations/39829320)
 
 - 佐藤祐菜・有賀ゆうアニース，2022，「「ハーフ」の文化社会学に向けて——複数の人種的背景を持つ若者の文化実践についての探索的調査」日本社会学会大会第95回大会，2022年11月12日．
 
-- 有賀ゆうアニース，2022，「「混血児問題」を当事者はいかに経験してきたか——進駐軍軍人・軍属を父に持つ人びとの生活史に着目して」日本社会学会大会第95回大会，2022年11月12日．
+- 有賀ゆうアニース，2022，「「混血児問題」を当事者はいかに経験してきたか——進駐軍軍人・軍属を父に持つ人びとの生活史に着目して」日本社会学会大会第95回大会，2022年11月12日．[Link]()
 
 - 有賀ゆうアニース，2022，「戦後日本における「混血児」の国際養子縁組事業の成立と展開――冷戦期における国内外の文脈とアクターに着目して」日本移民学会第7回冬季研究大会，2022年 12月11日．
 
@@ -45,8 +46,8 @@ The Followings are outputs of my research activities.
 - Aruga, Yu-Anis, 2023, “Cumulative and Intersectional Discrimination in the Lives of American-Japanese Elders in Japan,” Biennial Conference of the Japanese Studies Association of Australia, September 1, 2023.
 
 ## 受賞歴 Awards
-- 2023年10月，第19回日本社会学会奨励賞「論文の部」,日本社会学会．
-- 2020年4月，優秀修士論文専攻長賞, 東京大学大学院学際情報学府．
+- 2023年10月，第19回日本社会学会奨励賞「論文の部」，日本社会学会．
+- 2020年4月，優秀修士論文専攻長賞，東京大学大学院学際情報学府．
 
 ## その他 Other Works
 - 有賀ゆうアニース，2022，「「ハーフ」の身体とファッション・メイク――「#和顔ハーフ」から考える」『ZOZO NEXT FASHION TECH NEWS』2022.9.27. [Link](https://fashiontechnews.zozo.com/series/series_fashion_technology/ariga_yu_anis)

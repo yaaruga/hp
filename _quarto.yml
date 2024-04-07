@@ -4,7 +4,7 @@ project:
   
 website:
   title: "Yu-Anis Aruga"
-  googleanalytics: "G-23K2TX0WXL"
+  google-analytics: "G-23K2TX0WXL"
   navbar:
     left:
       - href: index.qmd
