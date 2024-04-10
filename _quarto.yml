@@ -19,6 +19,7 @@ website:
         text: Contact
       - href: resource.qmd
         text: Resource
+      - posts.qmd # add your posts.qmd file to your navbar!
     tools:
       - icon: twitter-x
         href: https://twitter.com/yu78730833
