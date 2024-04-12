@@ -17,8 +17,6 @@ website:
         text: Project
       - href: contact.qmd
         text: Contact
-      - href: resource.qmd
-        text: Resource
       - posts.qmd # add your posts.qmd file to your navbar!
     tools:
       - icon: twitter-x
@@ -31,12 +29,14 @@ website:
 
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; C
-    opyright 2024, Yu-Anis Aruga"
+    left: "&copy; Copyright 2024, Yu-Anis Aruga"
 
 format:
-  html:
+  html: 
     theme: cosmo
+    page-layout: full
+    fontsize: 1.1em
+    linestretch: 1.7
     toc: true
 
 editor: source
