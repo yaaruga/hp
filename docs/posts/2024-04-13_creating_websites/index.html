@@ -9,7 +9,7 @@
 <meta name="author" content="yaaruga">
 <meta name="dcterms.date" content="2024-04-10">
 
-<title>Yu-Anis Aruga - このサイトの開設の経緯</title>
+<title>Yu-Anis Aruga - ど素人がGitHubとQuartoとR Markdownで研究者用のウェブサイトをつくってみる</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -108,11 +108,11 @@ gtag('config', 'G-23K2TX0WXL', { 'anonymize_ip': true});
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../work.html"> 
-<span class="menu-text">Work</span></a>
+<span class="menu-text">Works</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../project.html"> 
-<span class="menu-text">Project</span></a>
+<span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../contact.html"> 
@@ -128,7 +128,6 @@ gtag('config', 'G-23K2TX0WXL', { 'anonymize_ip': true});
     <a href="https://twitter.com/yu78730833" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter-x"></i></a>
     <a href="https://www.facebook.com/yuanis.aruga/" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-facebook"></i></a>
     <a href="https://www.instagram.com/arugaaayyy/" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-instagram"></i></a>
-    <a href="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -137,9 +136,10 @@ gtag('config', 'G-23K2TX0WXL', { 'anonymize_ip': true});
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page">
-      <h1 class="title">このサイトの開設の経緯</h1>
+      <h1 class="title">ど素人がGitHubとQuartoとR Markdownで研究者用のウェブサイトをつくってみる</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">Misc</div>
+                <div class="quarto-category">R</div>
+                <div class="quarto-category">Tips</div>
               </div>
                   </div>
   </div>
@@ -178,8 +178,27 @@ gtag('config', 'G-23K2TX0WXL', { 'anonymize_ip': true});
 
 
 
-<p>2024年3月をもって大学院博士課程を修了して自分の経歴に一区切りがついたこと、今後のキャリアの展開のためにはパーソナル・ウェブサイトの運営はほぼ必須になっていることを踏まえて、2024年4月に研究者としての自分のサイトを開設しました。</p>
-<p>このブログでは、主に、研究活動上の雑考、同僚や後輩の研究者への（役に立つ保証のまったくない）tipsやノウハウを提供する記事を投稿していく予定です。</p>
+<p>このサイトはGitHubとQuartoとR Markdownを使ってつくっていますが、有賀はプログラミングの専門家ではなく、これらのツールに関する知識はほとんどありません（Rも初歩的な機能しか使っていません）。</p>
+<p>もちろんウェブサイトを作成する手段として様々なものがあります。なかにはGoogleサイトやWordPressなどのように、認知的・金銭的資源をほとんど使わずに利用できるものもあります。 ただ長期的に見ればあるていど再現性が高く、万一会社側がサービスを変えたりしても運用を継続できるような手段を用いるのが望ましいとは一般にいえるでしょう。</p>
+<p>でもカネもスキルもないのにそんな都合のいいサービスがあるのか…というのを考えて調べているうちに見つけたのがQuartoというオープンソースの科学/技術出版システムです。詳細は<a href="https://www.jaysong.net/RBook/quarto.html">こちら</a>を参照してください。</p>
+<p>これについてはすでに公式サイトも含めて豊富な紹介があるのですが、私の場合は以下のような手順で作成しています。色々調べる時間も込みで、だいたい20時間ぐらいかけましたが、要領の良い人ならもちろんもっと素早くできると思います。同じようなニーズのある人がいれば参考になさってください。</p>
+<ul>
+<li>下準備をする
+<ul>
+<li>まずGitHubのアカウントをつくります。<a href="https://qiita.com/ayatokura/items/9eabb7ae20752e6dc79d">これ</a>も参照のこと。</li>
+<li>またRとR Studioをダウンロードします。矢内先生の<a href="https://yukiyanai.github.io/jp/resources/">案内</a>が大変参考になります。</li>
+</ul></li>
+<li>ウェブサイトの雛形をつくる
+<ul>
+<li>こちらの<a href="https://youtu.be/YN75YXaLFGM?si=ApckpqPRTCe3mbSE">動画</a>の指示にしたがってQuartoのダウンロード、R Studio上でのプロジェクトの作成、プロジェクトとGitHubアカウントの連携を行います。</li>
+<li>私は唯一認証設定のところでエラーが出てつまずきました。同じケースの方はこの<a href="https://qiita.com/NumLock7019/items/c867e01c5451dc7d06e3">ポスト</a>を参考にしてみてください。</li>
+</ul></li>
+<li>ウェブサイトの体裁を整える
+<ul>
+<li><a href="https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/">このポスト</a>のステップIII以下 を参考に、ブログを追加します。</li>
+<li><a href="https://www.jaysong.net/RBook/quarto.html">矢内先生と宋先生のガイド</a>、<a href="https://shohei-doi.github.io/academic-website/">土井先生のガイド</a>、また<a href="https://quarto.org/docs/websites/website-blo.html#home-page">Quartoの公式サイト</a>を参考に中身や体裁を自分好みに設計します。</li>
+</ul></li>
+</ul>
 
 
 

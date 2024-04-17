@@ -1,5 +1,5 @@
 ---
-title: "Work"
+title: "業績 Works"
 about:
   id: me
   template: marquee

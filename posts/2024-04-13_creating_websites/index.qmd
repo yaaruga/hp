@@ -1,0 +1,28 @@
+---
+title: "ど素人がGitHubとQuartoとR Markdownで研究者用のウェブサイトをつくってみる"
+author: "yaaruga"
+date: "2024-04-15"
+categories: [R, Tips]
+---
+
+このサイトはGitHubとQuartoとR Markdownを使ってつくっていますが、有賀はプログラミングの専門家ではなく、これらのツールに関する知識はほとんどありません（Rも初歩的な機能しか使っていません）。
+
+もちろんウェブサイトを作成する手段として様々なものがあります。なかにはGoogleサイトやWordPressなどのように、認知的・金銭的資源をほとんど使わずに利用できるものもあります。
+ただ長期的に見ればあるていど再現性が高く、万一会社側がサービスを変えたりしても運用を継続できるような手段を用いるのが望ましいとは一般にいえるでしょう。
+
+でもカネもスキルもないのにそんな都合のいいサービスがあるのか...というのを考えて調べているうちに見つけたのがQuartoというオープンソースの科学/技術出版システムです。詳細は[こちら](https://www.jaysong.net/RBook/quarto.html)を参照してください。
+
+これについてはすでに公式サイトも含めて豊富な紹介があるのですが、私の場合は以下のような手順で作成しています。色々調べる時間も込みで、だいたい20時間ぐらいかけましたが、要領の良い人ならもちろんもっと素早くできると思います。同じようなニーズのある人がいれば参考になさってください。
+
+- 下準備をする
+  - まずGitHubのアカウントをつくります。[これ](https://qiita.com/ayatokura/items/9eabb7ae20752e6dc79d)も参照のこと。
+  - またRとR Studioをダウンロードします。矢内先生の[案内](https://yukiyanai.github.io/jp/resources/)が大変参考になります。
+
+- ウェブサイトの雛形をつくる
+  - こちらの[動画](https://youtu.be/YN75YXaLFGM?si=ApckpqPRTCe3mbSE)の指示にしたがってQuartoのダウンロード、R Studio上でのプロジェクトの作成、プロジェクトとGitHubアカウントの連携を行います。
+  - 私は唯一認証設定のところでエラーが出てつまずきました。同じケースの方はこの[ポスト](https://qiita.com/NumLock7019/items/c867e01c5451dc7d06e3)を参考にしてみてください。
+  
+- ウェブサイトの体裁を整える
+  - [このポスト](https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/)のステップIII以下
+を参考に、ブログを追加します。
+  - [矢内先生と宋先生のガイド](https://www.jaysong.net/RBook/quarto.html)、[土井先生のガイド](https://shohei-doi.github.io/academic-website/)、また[Quartoの公式サイト](https://quarto.org/docs/websites/website-blo.html#home-page)を参考に中身や体裁を自分好みに設計します。

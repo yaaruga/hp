@@ -166,11 +166,11 @@ window.Quarto = {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./work.html"> 
-<span class="menu-text">Work</span></a>
+<span class="menu-text">Works</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./project.html"> 
-<span class="menu-text">Project</span></a>
+<span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./contact.html"> 
@@ -186,7 +186,6 @@ window.Quarto = {
     <a href="https://twitter.com/yu78730833" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter-x"></i></a>
     <a href="https://www.facebook.com/yuanis.aruga/" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-facebook"></i></a>
     <a href="https://www.instagram.com/arugaaayyy/" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-instagram"></i></a>
-    <a href="" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -197,7 +196,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Degree">Degree <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Education">Education <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Grant">Grant <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Media">Media <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Misc">Misc <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Tips">Tips <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="Career">Career <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Degree">Degree <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ethnicity/Race">Ethnicity/Race <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Grant">Grant <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Immigrant">Immigrant <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Imput">Imput <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Media">Media <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Misc">Misc <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Qualitative research">Qualitative research <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Quotes">Quotes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Research methodology">Research methodology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Teaching">Teaching <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Tips">Tips <span class="quarto-category-count">(3)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -225,60 +224,118 @@ window.Quarto = {
 
 
 <div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+         <option value="listing-title-sort" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Author
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
 <table class="quarto-listing-table table">
 <thead>
 <tr>
 <th>
-Date
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
 </th>
 <th>
-Title
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
 </th>
 <th>
-Author
+<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
 </th>
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-categories="Education,Media" data-listing-date-sort="1712761200000" data-listing-file-modified-sort="1712843319302" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="84" data-listing-title-sort="朝日新聞の取材記事に関する補遺" data-listing-filename-sort="index.qmd">
+<tr data-index="0" data-categories="Teaching,Media" data-listing-date-sort="1713279600000" data-listing-file-modified-sort="1713361924417" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="274" data-listing-title-sort="朝日新聞の取材記事に関する補遺" data-listing-filename-sort="index.qmd">
 <td>
-<span class="listing-date">Apr 11, 2024</span>
+<span class="listing-date">Apr 17, 2024</span>
 </td>
 <td>
-<a href="./posts/20240411_asahi_appendix/index.html" class="title listing-title">朝日新聞の取材記事に関する補遺</a>
-</td>
-<td>
-<span class="listing-author">yaaruga </span>
-</td>
-</tr>
-<tr data-index="1" data-categories="Tips,Degree" data-listing-date-sort="1712761200000" data-listing-file-modified-sort="1712840263855" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7" data-listing-title-sort="社会(科)学系の博士課程の過ごし方に関するtipsを提供しているサイト" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Apr 11, 2024</span>
-</td>
-<td>
-<a href="./posts/20240411_Ph.d_life/index.html" class="title listing-title">社会(科)学系の博士課程の過ごし方に関するtipsを提供しているサイト</a>
+<a href="./posts/2024-04-13_asahi_appendix/index.html" class="title listing-title">朝日新聞の取材記事に関する補遺</a>
 </td>
 <td>
 <span class="listing-author">yaaruga </span>
 </td>
 </tr>
-<tr data-index="2" data-categories="Tips,Grant" data-listing-date-sort="1712761200000" data-listing-file-modified-sort="1712838140044" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="3" data-listing-title-sort="2021年度日本学術振興会特別研究員DC2（社会学専門分野）の申請書を公開します" data-listing-filename-sort="index.qmd">
+<tr data-index="1" data-categories="Tips,Degree,Career" data-listing-date-sort="1713193200000" data-listing-file-modified-sort="1713274070489" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="9" data-listing-title-sort="社会(科)学系の博士課程の過ごし方に関するtipsを提供しているサイト" data-listing-filename-sort="index.qmd">
 <td>
-<span class="listing-date">Apr 11, 2024</span>
+<span class="listing-date">Apr 16, 2024</span>
 </td>
 <td>
-<a href="./posts/20240411_DC2/index.html" class="title listing-title">2021年度日本学術振興会特別研究員DC2（社会学専門分野）の申請書を公開します</a>
+<a href="./posts/2024-04-11_Ph.d_life/index.html" class="title listing-title">社会(科)学系の博士課程の過ごし方に関するtipsを提供しているサイト</a>
 </td>
 <td>
 <span class="listing-author">yaaruga </span>
 </td>
 </tr>
-<tr data-index="3" data-categories="Misc" data-listing-date-sort="1712674800000" data-listing-file-modified-sort="1712840837383" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="このサイトの開設の経緯" data-listing-filename-sort="index.qmd">
+<tr data-index="2" data-categories="Imput,Teaching,Immigrant,Ethnicity/Race,Quotes" data-listing-date-sort="1713193200000" data-listing-file-modified-sort="1713274815866" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="38" data-listing-title-sort="一押し文献: Joppke (1998) 「国民国家を問い直す移民」" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Apr 16, 2024</span>
+</td>
+<td>
+<a href="./posts/2024-04-16_Joppke_1998/index.html" class="title listing-title">一押し文献: Joppke (1998) 「国民国家を問い直す移民」</a>
+</td>
+<td>
+<span class="listing-author">yaaruga </span>
+</td>
+</tr>
+<tr data-index="3" data-categories="Imput,Qualitative research,Research methodology" data-listing-date-sort="1713193200000" data-listing-file-modified-sort="1713362127171" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="57" data-listing-title-sort="一押し文献: Deterding and Waters (2021) 「深層インタビューのフレキシブル・コーディング」" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Apr 16, 2024</span>
+</td>
+<td>
+<a href="./posts/2024-04-13_Deterding_and_Waters_2021/index.html" class="title listing-title">一押し文献: Deterding and Waters (2021) 「深層インタビューのフレキシブル・コーディング」</a>
+</td>
+<td>
+<span class="listing-author">yaaruga </span>
+</td>
+</tr>
+<tr data-index="4" data-categories="Tips,Grant" data-listing-date-sort="1712761200000" data-listing-file-modified-sort="1712838140044" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="3" data-listing-title-sort="2021年度日本学術振興会特別研究員DC2（社会学専門分野）の申請書を公開します" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Apr 11, 2024</span>
+</td>
+<td>
+<a href="./posts/2024-04-11_DC2/index.html" class="title listing-title">2021年度日本学術振興会特別研究員DC2（社会学専門分野）の申請書を公開します</a>
+</td>
+<td>
+<span class="listing-author">yaaruga </span>
+</td>
+</tr>
+<tr data-index="5" data-categories="Misc" data-listing-date-sort="1712674800000" data-listing-file-modified-sort="1712840837383" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="このサイトの開設の経緯" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Apr 10, 2024</span>
 </td>
 <td>
-<a href="./posts/20240410_front_matter/index.html" class="title listing-title">このサイトの開設の経緯</a>
+<a href="./posts/2024-04-10_front_matter/index.html" class="title listing-title">このサイトの開設の経緯</a>
+</td>
+<td>
+<span class="listing-author">yaaruga </span>
+</td>
+</tr>
+<tr data-index="6" data-categories="R,Tips" data-listing-date-sort="1712674800000" data-listing-file-modified-sort="1713005509393" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="27" data-listing-title-sort="ど素人がGitHubとQuartoとR Markdownで研究者用のウェブサイトをつくってみる" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Apr 10, 2024</span>
+</td>
+<td>
+<a href="./posts/2024-04-13_creating_websites/index.html" class="title listing-title">ど素人がGitHubとQuartoとR Markdownで研究者用のウェブサイトをつくってみる</a>
 </td>
 <td>
 <span class="listing-author">yaaruga </span>

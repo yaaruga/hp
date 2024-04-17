@@ -1,6 +1,7 @@
 ---
-title: "Project"
+title: "研究プロジェクト Projects"
 toc: true
+title-block-banner: false
 about:
   id: me
   template: marquee

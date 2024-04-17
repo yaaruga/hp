@@ -1,0 +1,7 @@
+---
+title: "一押し文献: Morehouse et al.(2023)「人類の社会集団はすべて人間的であるが、より人間的な集団もある」"
+author: "yaaruga"
+date: "2024-04-15"
+categories: [Imput]
+draft: true
+---
