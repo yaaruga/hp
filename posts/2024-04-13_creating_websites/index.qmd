@@ -1,7 +1,7 @@
 ---
 title: "ど素人がGitHubとQuartoとR Markdownで研究者用のウェブサイトをつくってみる"
 author: "yaaruga"
-date: "2024-04-15"
+date: "2024-04-11"
 categories: [R, Tips]
 ---
 
