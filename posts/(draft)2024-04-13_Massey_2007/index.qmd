@@ -1,11 +1,12 @@
 ---
-title: "一押し文献: Massey (2007)「カテゴリーがつくる不平等――アメリカの階層化システム」"
+title: "【文献】 Massey (2007)『カテゴリーがつくる不平等――アメリカの階層化システム』"
 author: "yaaruga"
 date: "2024-04-11"
 categories: [Imput]
 draft: true
 ---
-:::{.callout-note}
-## 一押し文献
 Massey, Douglas S. 2007. *Categorically Unequal: The American Stratification System*. New York: Russell Sage Foundation.
+
+:::{.callout-note}
+## 人種と階層化
 :::

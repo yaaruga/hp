@@ -1,16 +1,19 @@
 ---
-title: "一押し文献: Joppke (1998) 「国民国家を問い直す移民」"
+title: "【文献】Joppke (1998) 「国民国家を問い直す移民」"
 author: "yaaruga"
 date: "2024-04-16"
 categories: [Imput, Teaching, Immigrant, Ethnicity/Race, Quotes]
 ---
-:::{.callout-note}
-## 一押し文献
-Joppke, Christian. 1998. “Immigration Challenges the Nation‐State.” Pp. 5–47 in *Challenge to the Nation-State: Immigration in Western Europe and the United States*, edited by C. Joppke. New York: Oxford University Press.
+**Joppke, Christian. 1998. “Immigration Challenges the Nation‐State.” Pp. 5–47 in *Challenge to the Nation-State: Immigration in Western Europe and the United States*, edited by C. Joppke. New York: Oxford University Press.**
 
-:::
+## 内容
+
 欧米諸国の出入国・移民統合政策の比較政治学的研究の大御所であるChristian Joppkeが編者を担当した本に書いた序論。
+
 特に20世紀後半に欧米諸国における出入国・移民統合政策の概略を論じている。
+
+## 感想
+
 特に目新しい知見はないし、著者の英語は他の移民研究者と比較すると読みにくいほうだと思うが（特にボキャ貧には単語が難しい）、理論的知見の整理と著者一流のquotableな名文が非常に印象に残る。こういうの非常勤とか論文の結論で使いこなせたらカッケーなーと思う。
 
 :::{.callout-note}
