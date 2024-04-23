@@ -2,11 +2,13 @@
 title: "About"
 about:
   id: me
-  template: trestles
-  image: img/asahi.jpg
+  template: jolla
+  image: img/portrait.jpg
+  image-width: 15em
+  image-alt: "portrait"
 ---
 
-有賀ゆうアニース Yu-Anis ARUGA 
+有賀ゆうアニース Yu-Anis ARUGA
 
 大阪公立大学特別研究員PD。法政大学・早稲田大学・立教大学兼任講師。
 
