@@ -11,4 +11,6 @@ about:
 このサイトでは、私がおこなっている研究のプロジェクトや成果や雑記をまとめています。
 
 This is a website of Yu-Anis Aruga (有賀 ゆうアニース), Research Fellow at Osaka Metropolitan University, Japan. My main research interests include media culture and interethnic relations in contemporary Japan.
+
+Last update: 2024-04-24
 :::

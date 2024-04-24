@@ -17,7 +17,7 @@ website:
         text: Projects
       - href: contact.qmd
         text: Contact
-      - href: posts.qmd
+      - href: blog.qmd
         text: Blog
     tools:
       - icon: twitter-x
