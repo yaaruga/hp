@@ -1,5 +1,5 @@
 ---
-title: "Wecome to Yu-Anis Aruga's Website!"
+title: "Welcome to Yu-Anis Aruga's Website!"
 about:
   id: me
   template: jolla
