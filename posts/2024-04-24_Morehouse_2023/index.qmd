@@ -4,7 +4,7 @@ author: "yaaruga"
 date: "2024-04-24"
 categories: [Imput, Teaching, Ethnicity/Race]
 ---
-Morehouse, Kirsten N., Keith Maddox, and Mahzarin R. Banaji. 2023. “All Human Social Groups Are Human, but Some Are More Human than Others: A Comprehensive Investigation of the Implicit Association of ‘Human’ to US Racial/Ethnic Groups.” Proceedings of the National Academy of Sciences 120(22):e2300995120. 
+**Morehouse, Kirsten N., Keith Maddox, and Mahzarin R. Banaji. 2023. “All Human Social Groups Are Human, but Some Are More Human than Others: A Comprehensive Investigation of the Implicit Association of ‘Human’ to US Racial/Ethnic Groups.” *Proceedings of the National Academy of Sciences* 120(22):e2300995120.**
 
 ## 内容
 ハーバード大学とタフツ大学の研究チームが13の実験に参加した6万人以上の被験者を対象に実施した潜在連合テスト（IAT）の結果を人種などの変数の観点から分析した論文。特に人種に関する認知がどのように「人間」や「動物」という属性の連想に関連するかを分析している。
