@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Yu-Anis ARUGA 有賀 ゆうアニース"
 about:
   id: me
   template: jolla
@@ -8,7 +8,6 @@ about:
   image-alt: "portrait"
 ---
 
-有賀ゆうアニース Yu-Anis ARUGA
 
 大阪公立大学特別研究員PD。法政大学・早稲田大学・立教大学兼任講師。
 
@@ -17,3 +16,5 @@ about:
 専門は社会学。研究テーマは人種・エスニシティ。とくに、ハーフ、ミックスとして知られる複数の国にルーツをもつ人々の経験や意識、またそれらがどのような社会の制度や文化や構造と関係しているかについて研究している。
 
 研究者としての経歴の詳細は[Researchmap](https://researchmap.jp/ya-ruga)をご覧ください。
+
+My research career can can be seen [here](https://researchmap.jp/ya-ruga).
