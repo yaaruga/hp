@@ -8,9 +8,9 @@ about:
 :::{#me}
 
 社会学、人種・エスニシティ論を専門とする研究者、有賀ゆうアニースのウェブサイトです。
-このサイトでは、私がおこなっている研究のプロジェクトや成果や雑記をまとめています。
+このサイトでは、私がおこなっている研究のプロジェクトや成果、雑記をまとめています。
 
-This is a website of Yu-Anis Aruga (有賀 ゆうアニース), Research Fellow at Osaka Metropolitan University, Japan. My main research interests include interethnic relations, media culture, contemporary Japan.
+This is a website of Yu-Anis Aruga (有賀 ゆうアニース), Research Fellow at Osaka Metropolitan University, Japan. My main research interest is in how various cultural, ethnic and racial boundaries work and are organised and how they relate to social inequalities in contemporary Japan.
 
 Last update: 2024-04-24
 :::
