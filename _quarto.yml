@@ -5,6 +5,7 @@ project:
 website:
   title: "Yu-Anis Aruga"
   site-url: "https://yaaruga.github.io/hp/"
+  description: "Yu-Anis Aruga's Website"
   google-analytics: "G-23K2TX0WXL"
   navbar:
     left:
