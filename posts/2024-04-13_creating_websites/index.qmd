@@ -25,4 +25,4 @@ categories: [R, Tips]
 - ウェブサイトの体裁を整える
   - [このポスト](https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/)のステップIII以下
 を参考に、ブログを追加します。
-  - [矢内先生と宋先生のガイド](https://www.jaysong.net/RBook/quarto.html)、[土井先生のガイド](https://shohei-doi.github.io/academic-website/)、また[Quartoの公式サイト](https://quarto.org/docs/websites/website-blo.html#home-page)を参考に中身や体裁を自分好みに設計します。
+  - [矢内先生と宋先生のガイド](https://www.jaysong.net/RBook/quarto.html)、[土井先生のガイド](https://shohei-doi.github.io/academic-website/)、また[Quartoの公式サイト](https://quarto.org/docs/websites/)を参考に中身や体裁を自分好みに設計します。
