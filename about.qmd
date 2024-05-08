@@ -7,9 +7,7 @@ about:
   image-width: 15em
   image-alt: "portrait"
 ---
-
-
-大阪公立大学特別研究員PD。法政大学・早稲田大学・立教大学兼任講師。
+博士（社会情報学）。大阪公立大学特別研究員PD。法政大学・早稲田大学・立教大学兼任講師。
 
 1995年長野県生まれ・東京都育ち。
 
@@ -20,3 +18,5 @@ about:
 Yu-Anis Aruga is Research Fellow at Osaka Metropolitan University, Japan. His main research interest is in how various cultural, ethnic and racial boundaries work and are organised and how they relate to social inequalities in contemporary Japan.
 
 My research career can be seen [here](https://researchmap.jp/ya-ruga).
+
+Last update: 2024-05-08

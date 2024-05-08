@@ -4,53 +4,42 @@ about:
   id: me
   template: marquee
 ---
-私の過去の研究活動の成果をまとめています。
+過去の研究活動の成果をまとめています。
 
 The Followings are outputs of my research activities.
 
-Last update: 2024-04-24
+Last update: 2024-05-08
+
+## 学位論文 Thesis & Dissertation
+- 有賀ゆうアニース，2018，「戦後日本における「上からのレイシズム」――在日コリアンへのレイシズム暴力と政治・メディア言説の連関 1975-1999」早稲田大学文化構想学部学士論文．
+- 有賀ゆうアニース，2020，「差異を問題化する／しない方法――戦後日本における「混血」の概念分析」東京大学大学院修士論文
+- 有賀ゆうアニース，2024，「多人種／人種の社会的意味――戦後日本における「混血児問題」の歴史-社会学的記述」東京大学大学院博士論文．
 
 ## 査読論文 Peer-Reviewed Articles
 - 有賀ゆうアニース，2022，「人種差別の理解可能性と「混血（児）」カテゴリー――「混血少年連続殺人事件」を事例に」『年報社会学論集』35: 80-91．[Link](https://doi.org/10.5690/kantoh.2022.80)
-
 - 有賀ゆうアニース，2022，「戦後「混血児問題」における<反人種差別規範>の形成――「混血児」概念の用法と文脈に着目して」『社会学評論』72(5): 154-171．[Link](https://doi.org/10.4057/jsr.73.154)
-
 - 有賀ゆうアニース，2022，「「ハーフ」は偏見・差別経験をいかに語りうるのか――多人種的背景を持つ人々の相互行為における不服連鎖」『ソシオロゴス』46: 76-95．[Link](https://www.l.u-tokyo.ac.jp/~slogos/archive/46/46_ariga.pdf)
-
 - 有賀ゆうアニース，2023，「戦後日本における「混血児」の国際養子縁組事業の成立と展開」『移民研究年報』29: 73-86．
-
 - 有賀ゆうアニース，2023，「だれが「ハーフ」としてソーシャルメディア上で語るのか――動画共有サイトTikTokにおける「ハーフあるある」動画の探索的内容分析」『メディア研究』103: 235-252． [Link](https://www.jstage.jst.go.jp/article/jamsmedia/103/0/103_235/_article/-char/ja)
-
 - 有賀ゆうアニース，2023，「アスリートとしての反レイシズム実践とそのジレンマ――ある日本プロ野球選手のソーシャルメディア投稿を事例に」『スポーツ社会学研究』31(2): 93-106． [Link](https://www.jstage.jst.go.jp/article/jjsss/31/2/31_31-2-03/_article/-char/ja/)
+- 有賀ゆうアニース，近刊，「「混血児」としての経験と累積する差別――連合国軍軍人・軍属を父に持つ人びとの生活史から」『年報社会学論集』37: 印刷中．
 
 ## 書籍 Book Chapters
 - 有賀ゆうアニース・加藤聡・稲葉あや香，2021，「第３章コロナ来襲――「呪われた五輪」の迷走」吉見俊哉編著『検証 コロナと五輪――変われぬ日本の失敗連鎖』河出書房新社，102-143．[Link](https://www.kawade.co.jp/np/isbn/9784309631431/)
-
-- Sato, Yuna, Yu-Anis Aruga, and Sayaka Osanami-Törngren., 2023,  “Reimagining Japan through the experiences of mixed Japanese,” Tanaka, Kimiko and Selin, Helaineed., eds., *Gender, Safety, Inequality: Key Challenges for Japan*, Springer, 293-308. [Link](https://link.springer.com/chapter/10.1007/978-3-031-36331-3_20)
+- Sato, Yuna, Yu-Anis Aruga, and Sayaka Osanami-Törngren., 2023,  “Reimagining Japan through the experiences of mixed Japanese,” Tanaka, Kimiko and Selaine Selin eds., *Gender, Safety, Inequality: Key Challenges for Japan*, Springer, 293-308. [Link](https://link.springer.com/chapter/10.1007/978-3-031-36331-3_20)
 
 ## 学会発表 Conference Presentations
 - 有賀ゆうアニース，2019（6月2日），「差別をどうやって「問題」化するか――1950年代『婦人公論』と「混血児の母」」カルチュラル・タイフーン2019．[Link](https://researchmap.jp/ya-ruga/presentations/24505175)
-
 - 有賀ゆうアニース，2021（11月13日），「戦後「混血児問題」における<反人種差別>の論理――「混血児」概念の文脈と用法に着目して」日本社会学会大会第94回大会．[Link](https://researchmap.jp/ya-ruga/presentations/35854174)
-
 - 有賀ゆうアニース，2022（6月19日），「「ハーフ」は偏見・差別経験をいかに語りうるのか――多人種的背景を持つ人々の相互行為への会話分析的アプローチ」第70回関東社会学会大会．[Link](https://researchmap.jp/ya-ruga/presentations/37167773)
-
 - 有賀ゆうアニース，2022（6月5日），「「ハーフ」の経験はいかにソーシャルメディア上で共有されるのか――動画およびコメント欄への会話分析的アプローチ」日本メディア学会2022年度春季大会．[Link](https://researchmap.jp/ya-ruga/presentations/37167804)
-
 - 有賀ゆうアニース，2022（9月17日），「「復興五輪」とマスメディアの10年――全国紙・地方紙記事の内容分析から」カルチュラル・タイフーン2022．[Link](https://researchmap.jp/ya-ruga/presentations/39829320)
-
 - 佐藤祐菜・有賀ゆうアニース，2022（11月12日），「「ハーフ」の文化社会学に向けて——複数の人種的背景を持つ若者の文化実践についての探索的調査」日本社会学会大会第95回大会．
-
 - 有賀ゆうアニース，2022（11月12日），「「混血児問題」を当事者はいかに経験してきたか——進駐軍軍人・軍属を父に持つ人びとの生活史に着目して」日本社会学会大会第95回大会．[Link]()
-
 - 有賀ゆうアニース，2022（12月11日），「戦後日本における「混血児」の国際養子縁組事業の成立と展開――冷戦期における国内外の文脈とアクターに着目して」日本移民学会第7回冬季研究大会．[Link](https://researchmap.jp/ya-ruga/presentations/40653414)
-
 - Sato, Yuna. and Yu-Anis Aruga, 2023 (July 28), “Cultural participation and Identities of Multiethnic and Multiracial Youth in Japan,” XX ISA World Congress of Sociology. (Online)
-
-- Aruga, Yu-Anis, 2023 (September 1), “Cumulative and Intersectional Discrimination in the Lives of American-Japanese Elders in Japan,” Biennial Conference of the Japanese Studies Association of Australia.
-
+mber 1), “Cumulative and Intersectional Discrimination in the Lives of American-Japanese Elders in Japan,” Biennial Conference of the Japanese Studies Association of Australia.
 - 有賀ゆうアニース，2023（12月11日），「なぜ「混血児」か，なぜ当事者概念か――人種／差別の社会学の進展のために」第96回日本社会学会大会・学会奨励賞（論文の部）受賞者招待講演会，[Link](https://researchmap.jp/ya-ruga/presentations/40653414)
-
 
 ## 受賞歴 Awards
 - 2023年10月，第19回日本社会学会奨励賞「論文の部」，日本社会学会．
