@@ -1,0 +1,35 @@
+---
+title: "社会学論文の読み方に関する専門社会学者のアドバイス"
+author: "yaaruga"
+date: "2024-05-20"
+categories: [Misc]
+format: html
+draft: true
+bibliography: ../../BibTex/Website.bib
+cite-method: citeproc
+csl: ../../csl/american-sociological-association.csl
+---
+
+# 背景
+
+社会学者のLoïc Wacquantは、以下のように社会学の書籍や論文を「批判的かつ分析的に」読む際の留意点をあげている
+
+1. つねに目的をもって読む Always Read with a	Purpose
+2. 事前にテキストをスキャンし、スコープする Scan and	Scope the Text Beforehand　
+3. 作品の論理を同定するために読む Read to Identify the Logic of the Piece
+4. 別様に読む Read Differentially
+5. 読むときに注釈を入れる Annotate the Text as you Read
+6. 混乱するような部分に注意を払う Pay Attention to Passages that Confuse
+7. 他の研究との著者の関係に注意する Notice the Author’s Relationship with Other Scholarship
+8. 読んだ直後にノートを書く Write Up Notes Immediately After Reading
+9. テクストを回顧し、その所論を評価する Reflect Back Upon the Text and Evaluate the	Argument
+10. 2回、3回（あるいは何回）と読むことをためらわない Do Not Hesitate to Read a Text for	a Second	or Third (or Nth) Time
+
+```{r}
+#| eval: false #出力を表示するか
+#| echo: true #入力を表示するか
+    
+```
+
+::: {#refs}
+:::

@@ -1,0 +1,23 @@
+---
+title: "月刊誌『女性情報』についての覚書"
+author: "yaaruga"
+date: "2024-05-20"
+categories: [Media]
+format: html
+draft: true
+bibliography: ../../BibTex/Website.bib
+cite-method: citeproc
+csl: ../../csl/american-sociological-association.csl
+---
+
+# 背景
+『月刊女性』『女性情報』の1990年代までの各号には「社会」＞「差別問題・差別用語」「人権問題」のカテゴリーにミスコンへの抗議のイベントが個別に報告されているのでイベント分析のデータソースとして活用できるかも
+
+```{r}
+#| eval: false #出力を表示するか
+#| echo: true #入力を表示するか
+    
+```
+
+::: {#refs}
+:::
