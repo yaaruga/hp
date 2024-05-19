@@ -20,4 +20,4 @@ This is a website of Yu-Anis Aruga (有賀 ゆうアニース), Research Fellow 
 - ブログ: [Blog](https://yaaruga.github.io/hp/blog.html)
 :::
 
-Last update: 2024-05-08
+Last update: 2024-05-20
