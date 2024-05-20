@@ -2,6 +2,7 @@
 title: "【文献】Bail (2021) 『ソーシャルメディア・プリズム――SNSはなぜヒトを過激にするのか?』"
 author: "yaaruga"
 date: "2024-05-09"
+draft: true
 categories: [Imput, Social media, Teaching, Media]
 ---
 Bail, Christopher. 2021. **Breaking the Social Media Prism: How to Make Our Platforms Less Polarizing**. Princeton: Princeton University Press.（松井信彦訳，2022，『ソーシャルメディア・プリズム――SNSはなぜヒトを過激にするのか?』みすず書房.
