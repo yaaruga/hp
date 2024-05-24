@@ -9,6 +9,11 @@
 <link>https://yaaruga.github.io/hp/blog.html</link>
 <atom:link href="https://yaaruga.github.io/hp/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Yu-Anis Aruga&#39;s Website</description>
+<image>
+<url>https://yaaruga.github.io/hp/img/Miss_Van_y_Ciou.jpg</url>
+<title>Yu-Anis Aruga</title>
+<link>https://yaaruga.github.io/hp/blog.html</link>
+</image>
 <generator>quarto-1.4.552</generator>
 <lastBuildDate>Thu, 23 May 2024 15:00:00 GMT</lastBuildDate>
 <item>
@@ -146,7 +151,7 @@
 <section id="背景と目的" class="level1">
 <h1>背景と目的</h1>
 <p>大学の学部1年生を対象にした初年次教育では、文献検索の実習は、レポートやプレゼンの作成とならんで、必須項目といっていいだろう。しかし、実際に2年ほどやってみると、検索してみてもあまりノウハウが得にくい、厄介な問題にいろいろと直面する。</p>
-<p>そのひとつに、学生が収集するがソース、ジャーナルによって玉石混交になりがちであるという問題がある。とくに厄介なのがオープンアクセス状態の卒論や査読なし紀要論文である。google scholarやjstageを使ってもこの問題は解消できないし、学生の検索スキルにかかわらず、「検索ガチャ」によって成果物の質が左右されるのは好ましくないと考える。</p>
+<p>そのひとつに、学生が収集するがソース、ジャーナルによって玉石混交になりがちであるという問題がある。とくに厄介なのが、オープンアクセス状態の卒論や査読なし紀要論文である。google scholarやjstageを使ってもこの問題は解消できないし、学生の検索スキルにかかわらず、「検索ガチャ」によって成果物の質が左右されるのは好ましくないと考える。</p>
 <p>以上の考えのもと、このエントリでは、「とりあえず検索するときにこのへんのソースは信頼できる可能性が高いよ」「検索するときにこのへんをジャーナル名でいれるとよいよ」というのを紹介することにした。当然だが、1人の社会学ポスドクの独断と偏見、および担当授業の性質にもとづくチョイスであり、網羅的でも体系的でも汎用的でもない。なお作成にあたっては麦山亮太先生（学習院大学）の<a href="https://ryotamugiyama.github.io/seminar_sociology_r/plan.html#:~:text=%E3%81%82%E3%82%8B5%E3%80%82-,%E7%A4%BE%E4%BC%9A%E5%AD%A6%E8%A9%95%E8%AB%96,%E6%97%A5%E6%9C%AC%E5%8A%B4%E5%83%8D%E7%A0%94%E7%A9%B6%E9%9B%91%E8%AA%8C,-%E7%90%86%E8%AB%96%E3%81%A8%E6%96%B9%E6%B3%95">ご教材</a>を参考にさせていただいた。そのうち誰かのコメントや有賀の意見変更があれば加筆修正するかもしれない、永遠の試験版である。</p>
 </section>
 <section id="おすすめのジャーナル" class="level1">
