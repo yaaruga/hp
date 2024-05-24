@@ -3,6 +3,7 @@ title: "連絡 Contact"
 about:
   id: me
   template: marquee
+  image: img/Miss_Van_y_Ciou.jpg
 ---
 
 執筆や共同調査、ゲスト・非常勤講師のご依頼、調査プロジェクト等に関するご質問・ご依頼など、お気軽にご連絡ください。  
