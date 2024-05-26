@@ -6,7 +6,7 @@ categories: [Tips]
 format: html
 ---
 
-Frassl, Marieke A., David P. Hamilton, Blaize A. Denfeld, Elvira De Eyto, Stephanie E. Hampton, Philipp S. Keller, Sapna Sharma, Abigail S. L. Lewis, Gesa A. Weyhenmeyer, Catherine M. O’Reilly, Mary E. Lofton, and Núria Catalán. 2018. “Ten Simple Rules for Collaboratively Writing a Multi-Authored Paper” edited by F. Lewitter. *PLOS Computational Biology* 14(11):e1006508. doi: [10.1371/journal.pcbi.1006508](https://doi.org/10.1371/journal.pcbi.1006508).
+**Frassl, Marieke A., David P. Hamilton, Blaize A. Denfeld, Elvira De Eyto, Stephanie E. Hampton, Philipp S. Keller, Sapna Sharma, Abigail S. L. Lewis, Gesa A. Weyhenmeyer, Catherine M. O’Reilly, Mary E. Lofton, and Núria Catalán. 2018. “Ten Simple Rules for Collaboratively Writing a Multi-Authored Paper” edited by F. Lewitter. *PLOS Computational Biology* 14(11):e1006508. doi: [10.1371/journal.pcbi.1006508](https://doi.org/10.1371/journal.pcbi.1006508).**
 
 # 背景
 
@@ -18,7 +18,7 @@ Frassl, Marieke A., David P. Hamilton, Blaize A. Denfeld, Elvira De Eyto, Stepha
 著者らは、自分たちのこれまでの共著論文の執筆の経験を踏まえて、以下の10の規則を提案している。
 
 1.  **執筆チームを賢く作る**
-    -   「研究プロジェクトの最初の目標を確認し、論文に対す る全員の期待を集め、チームメンバー全員が論文執筆に参加 するかどうかを決めるのがよい方法だ。この段階は通常、研究プロジェクトのリーダーが始める。執筆チームを任命する際は、チームが論文執筆に必要な専門知識を兼ね備えていることを確認し、必要であれば新しい人を加えるオープンな姿勢を保つようにしよう。」 (Frassl et al. 2018: 2)
+    -   「研究プロジェクトの最初の目標を確認し、論文に対す る全員の期待を集め、チームメンバー全員が論文執筆に参加 するかどうかを決めるのがよい方法だ。この段階は通常、研究プロジェクトのリーダーが始める。執筆チームを任命する際は、チームが論文執筆に必要な専門知識を兼ね備えていることを確認し、必要であれば新しい人を加えるオープンな姿勢を保つようにしよう。」 [@frassl2018: 2]
     -   書記、リーダー、ファシリテーターなどの役割を配分することで、著者の関与を保持し負担を分担することができる
 
 <!-- -->
@@ -50,7 +50,7 @@ Frassl, Marieke A., David P. Hamilton, Blaize A. Denfeld, Elvira De Eyto, Stepha
 
 6.  **ニーズに合ったデジタルツールを選ぶ**
     -   バージョン管理、コメント、変更履歴の確認に関するプランを前もって作成し、適切なツールを運用すること。
-        -   「グループ全体が一緒に執筆するプロジェクトでは、Google DocsやOverleafのような同期技術は、バージョン管理を容易にするインタラクティブな執筆を可能にすることでうまく機能する。対照的に、逐次的に書かれた論文、サブセクションごとに並行して書かれた論文、または一人の著者によってのみ書かれた論文では、Microsoft WordやLibreOfficeのような従来のプログラムを使用することができる。」 (Frassl et al. 2018: 4)
+        -   「グループ全体が一緒に執筆するプロジェクトでは、Google DocsやOverleafのような同期技術は、バージョン管理を容易にするインタラクティブな執筆を可能にすることでうまく機能する。対照的に、逐次的に書かれた論文、サブセクションごとに並行して書かれた論文、または一人の著者によってのみ書かれた論文では、Microsoft WordやLibreOfficeのような従来のプログラムを使用することができる。」[@frassl2018: 4]
     -   ツールは利用可能性、使いやすさ、コスト、分担の仕方などに合わせて決めること。
     -   良質なコミュニケーションは論文の質にも反映される。
 
@@ -80,7 +80,7 @@ Frassl, Marieke A., David P. Hamilton, Blaize A. Denfeld, Elvira De Eyto, Stepha
 
 以上を踏まえた結論として以下のように述べている。
 
-> 「私たちは、多様なグループで研究することの利点は、多くの人々を調整するための取引コストを上回り、アプローチの多様性、斬新な科学的成果、そして最終的にはより優れた論文を生み出すと信じている。チーム・サイエンスのプロジェクトに好奇心、忍耐力、開放性をもたらし、配慮と共感を持って行動することができれば、特に論文を書くときには、その経験は楽しく、生産的で、やりがいのあるものになるだろう。」 (Frassl et al. 2018: 7)
+> 「私たちは、多様なグループで研究することの利点は、多くの人々を調整するための取引コストを上回り、アプローチの多様性、斬新な科学的成果、そして最終的にはより優れた論文を生み出すと信じている。チーム・サイエンスのプロジェクトに好奇心、忍耐力、開放性をもたらし、配慮と共感を持って行動することができれば、特に論文を書くときには、その経験は楽しく、生産的で、やりがいのあるものになるだろう。」 [@frassl2018: 7]
 
 ------------------------------------------------------------------------
 
