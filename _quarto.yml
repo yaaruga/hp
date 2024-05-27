@@ -32,8 +32,7 @@ website:
         href: https://www.instagram.com/arugaaayyy/
 
   page-footer:
-    right: "Built with [Quarto](https://quarto.org/) and [RStudio](https://posit.co/)"
-    left: "&copy; Copyright 2024, Yu-Anis Aruga"
+    right: "Built with [Quarto](https://quarto.org/), [RStudio](https://posit.co/), and [website-template](https://github.com/jtr13/quartobooktest)"
 
 bibliography: BibTex/Website.bib
 
