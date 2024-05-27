@@ -17,7 +17,7 @@
 <generator>quarto-1.4.552</generator>
 <lastBuildDate>Thu, 23 May 2024 15:00:00 GMT</lastBuildDate>
 <item>
-  <title>共著論文を共同執筆するための簡単な10のルール</title>
+  <title>【文献】Frassl et al. (2018) 「共著論文を共同執筆するための簡単な10のルール」</title>
   <dc:creator>yaaruga </dc:creator>
   <link>https://yaaruga.github.io/hp/posts/2024-05-24_Frassl_2018/</link>
   <description><![CDATA[ 
@@ -790,6 +790,10 @@ Frassl, Marieke A., David P. Hamilton, Blaize A. Denfeld, Elvira De Eyto, Stepha
 <ul>
 <li><a href="https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/">このポスト</a>のステップIII以下 を参考に、ブログを追加します。</li>
 <li><a href="https://www.jaysong.net/RBook/quarto.html">矢内先生と宋先生のガイド</a>、<a href="https://shohei-doi.github.io/academic-website/">土井先生のガイド</a>、また<a href="https://quarto.org/docs/websites/">Quartoの公式サイト</a>を参考に中身や体裁を自分好みに設計します。</li>
+</ul></li>
+<li>サイトを更新する
+<ul>
+<li><a href="https://zakino-engineer.hatenablog.com/entry/2022/10/22/234329">GitHubのPersonal Access Tokenが期限切れした場合、適宜対処する必要があります。</a></li>
 </ul></li>
 </ul>
 

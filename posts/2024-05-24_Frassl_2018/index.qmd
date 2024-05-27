@@ -1,9 +1,8 @@
 ---
-title: "共著論文を共同執筆するための簡単な10のルール"
+title: "【文献】Frassl et al. (2018) 「共著論文を共同執筆するための簡単な10のルール」"
 author: "yaaruga"
 date: "2024-05-24"
 categories: [Tips]
-format: html
 ---
 
 **Frassl, Marieke A., David P. Hamilton, Blaize A. Denfeld, Elvira De Eyto, Stephanie E. Hampton, Philipp S. Keller, Sapna Sharma, Abigail S. L. Lewis, Gesa A. Weyhenmeyer, Catherine M. O’Reilly, Mary E. Lofton, and Núria Catalán. 2018. “Ten Simple Rules for Collaboratively Writing a Multi-Authored Paper” edited by F. Lewitter. *PLOS Computational Biology* 14(11):e1006508. doi: [10.1371/journal.pcbi.1006508](https://doi.org/10.1371/journal.pcbi.1006508).**

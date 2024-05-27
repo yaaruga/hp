@@ -2,9 +2,9 @@
 title: "ど素人がGitHubとQuartoとR Markdownで研究者用のウェブサイトをつくってみる"
 author: "yaaruga"
 date: "2024-04-11"
+date-modified: "2024-05-27"
 categories: [R, Tips]
 ---
-
 このサイトはGitHubとQuartoとR Markdownを使ってつくっていますが、有賀はプログラミングの専門家ではなく、これらのツールに関する知識はほとんどありません（Rも初歩的な機能しか使っていません）。
 
 もちろんウェブサイトを作成する手段として様々なものがあります。なかにはGoogleサイトやWordPressなどのように、認知的・金銭的資源をほとんど使わずに利用できるものもあります。
@@ -26,3 +26,6 @@ categories: [R, Tips]
   - [このポスト](https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/)のステップIII以下
 を参考に、ブログを追加します。
   - [矢内先生と宋先生のガイド](https://www.jaysong.net/RBook/quarto.html)、[土井先生のガイド](https://shohei-doi.github.io/academic-website/)、また[Quartoの公式サイト](https://quarto.org/docs/websites/)を参考に中身や体裁を自分好みに設計します。
+  
+- サイトを更新する
+  - [GitHubのPersonal Access Tokenが期限切れした場合、適宜対処する必要があります。](https://zakino-engineer.hatenablog.com/entry/2022/10/22/234329)
