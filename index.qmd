@@ -5,7 +5,7 @@ about:
   template: marquee
 ---
 
-![Lake Suwa, Nagano Prefecture, Japan, 25 May 2019 (Sei F, CC BY-SA 2.0, via Wikimedia Commons)](img/suwa_lake.jpg){style="display: block; margin: 0 auto;"}
+![](img/suwa_lake.jpg){style="display: block; margin: 0 auto;"}
 
 ::: {#me}
 社会学、人種・エスニシティ論を専門とする研究者、有賀ゆうアニースのウェブサイトです。 このサイトでは、私が行っている研究のプロジェクトや成果、雑記などをまとめています。
@@ -23,4 +23,5 @@ This is a website of Yu-Anis Aruga (有賀 ゆうアニース), Research Fellow 
 -   ブログ: [Blog](https://yaaruga.github.io/hp/blog.html)
 :::
 
-Last update: 2024-05-24
+Last update: 2024-05-31\
+[Photo: Lake Suwa, Nagano Prefecture, Japan, 25 May 2019 ([Sei F, CC BY-SA 2.0, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lake_Suwa,_Nagano_Prefecture;_May_2019_(02).jpg))]{style="font-size: smaller;"}
