@@ -34,8 +34,6 @@ website:
   page-footer:
     right: "Built with [Quarto](https://quarto.org/), [RStudio](https://posit.co/), and [website-template](https://github.com/jtr13/quartobooktest)"
 
-bibliography: BibTex/Website.bib
-
 format:
   html: 
     theme: flatly 
@@ -43,6 +41,11 @@ format:
     fontsize: 1.2em
     linestretch: 1.7
     toc: true
+    bibliography: BibTex/Website.bib
+    link-citations: true
+    citeproc: true
+    csl: csl/american-journal-of-sociology.csl
+    css: css/style.css
 
 editor: source
 

@@ -5,9 +5,6 @@ date: "2024-05-20"
 categories: [Misc]
 format: html
 draft: true
-bibliography: ../../BibTex/Website.bib
-cite-method: citeproc
-csl: ../../csl/american-sociological-association.csl
 ---
 
 # 背景

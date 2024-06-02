@@ -3,12 +3,14 @@ title: "連絡 Contact"
 about:
   id: me
   template: marquee
+date-modified: last-modified
+date-format: "YYYY-MM-DD"
 ---
 
 執筆や共同調査、ゲスト・非常勤講師のご依頼、調査プロジェクト等に関するご質問・ご依頼など、お気軽にご連絡ください。\
-※ \[at\]を記号に置き換えた上でご連絡ください。\
-I can be reached at the address below.
+※ \[at\] を \@ に置き換えた上でご連絡ください。\
+I can be reached at the address below. Please replace \[at\] with \@.
 
-**yaarugannw\[at\]gmail.com**
-
-Last update: 2024-05-08
+::: {.center style="text-align: center; font-size: 120%; font-family: \"Meiryo"}
+**yaarugannw \[at\] gmail.com**
+:::
