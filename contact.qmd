@@ -7,8 +7,8 @@ date-modified: last-modified
 date-format: "YYYY-MM-DD"
 ---
 
-執筆や共同調査、ゲスト・非常勤講師のご依頼、調査プロジェクト等に関するご質問・ご依頼など、お気軽にご連絡ください。\
-※ \[at\] を \@ に置き換えた上でご連絡ください。\
+執筆や共同調査、ゲスト・非常勤講師のご依頼、調査プロジェクト等に関するご質問・ご依頼など、お気軽にご連絡ください。 \[at\] を \@ に置き換えた上でご連絡ください。
+
 I can be reached at the address below. Please replace \[at\] with \@.
 
 ::: {.contact style="text-align: center; font-size: 120%; font-family: \"Meiryo"}
