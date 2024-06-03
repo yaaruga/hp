@@ -19,4 +19,4 @@ date-format: "YYYY-MM-DD"
 Ciutat Vella (Barcelona) (aikijuanma from Barcelona, Spain, CC BY 2.0, via Wikimedia Commons)]{style="font-size: 70%;"}
 :::
 
-このブログでは、研究や教育に関わる雑、刊行物に関する補足などを不定期で書いています。
+このブログでは、研究や教育に関わる雑記、刊行物に関する補足などを不定期で書いています。
