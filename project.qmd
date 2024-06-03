@@ -8,7 +8,7 @@ about:
   id: me
   template: marquee
 date-modified: last-modified
-date-format: "YYYY-MM-DD"
+date-format: iso
 ---
 
 現在、以下の２つの研究プロジェクトを遂行しています。
@@ -17,10 +17,10 @@ date-format: "YYYY-MM-DD"
 
 在日外国人の定住化や国際結婚の増加に伴い、いわゆる「ハーフ」「ミックス」の人々、すなわち日本と外国の両方にルーツをもつ人々の日本社会における存在感が大きくなりつつあります。知人や友人のなかに当事者がいる、メディアや広告のなかで見かける、といったことも珍しくないでしょう。
 
-::: {layout-ncol="2"}
-![[Okki, United States Navy, Lhcollins, Humor Multishow, 樂活高縣, Rudra Nayan Das (original works); Mess (derivative work), CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0, via Wikimedia Commons]{style="font-size: 70%; line-height:1.0"}](img/Hafu_Collage.jpg){fig-align="center" width="393"}
+::: {layout-ncol="2" style="font-size: 70%; line-height:1.0"}
+![[Okki, United States Navy, Lhcollins, Humor Multishow, 樂活高縣, Rudra Nayan Das (original works); Mess (derivative work), CC BY-SA 4.0, via Wikimedia Commons]{style="font-size: 70%; line-height:1.0"}](img/Hafu_Collage.jpg){fig-align="center" width="393"}
 
-![西倉めぐみ・高木ララ監督『ハーフ』（2013年，ユナイテッドピープル）](img/hafu1.jpg){fig-align="center" width="281"}
+![[西倉めぐみ・高木ララ監督『ハーフ』（2013年，ユナイテッドピープル）]{style="font-size: 70%; line-height:1.0"}](img/hafu1.jpg){fig-align="center" width="281"}
 :::
 
 その一方で、ハーフ/ミックスの人びとがどんな日常生活を営んでいるのか、その日常的な対人関係や社会的活動のなかでどのように自らの人種的・民族的な背景を経験し、意識しているのかについてはまだまだ研究が追いついていません。\
@@ -35,7 +35,7 @@ date-format: "YYYY-MM-DD"
 周知のとおり、戦後の日本はアメリカ軍による占領からスタートしました。占領に伴い連合国軍の軍人や軍属が日本に進駐するなかで、彼らと一部の日本人女性の間に多くの子どもたちが生まれました。占領が始まった1945年から終了した1952年の間だけでも、その数は数万人に上るとされています。\
 こうした子どもたちは当時「混血児」と呼ばれ、さまざまな社会生活上の不利を経験してきたことが知られています。最近はこうした人々に焦点を当てたドキュメンタリー番組や書籍も登場し、彼らがそのバックグラウンドに関連してどのような経験をしてきたのかにも注目が集まっています。
 
-::: {layout-ncol="2" style="font-size: 80%; text-align: center; line-height: 1.0;"}
+::: {layout-ncol="2" style="font-size: 80%; text-align: center; line-height: 1.2;"}
 !["The Week's Best Photo", *Jet* Sep 16, 1954\
 黒人兵士と日本人女性を親にもつ女児を養子にした日本人夫婦の写真](img/1954-09-16_Jet.png){fig-align="center" width="289"}
 

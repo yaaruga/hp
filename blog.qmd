@@ -12,11 +12,11 @@ date-modified: last-modified
 date-format: "YYYY-MM-DD"
 ---
 
-![](img/Miss_Van_y_Ciou.jpg){style="margin-bottom: 0;" fig-align="center" width="543"}
+![](img/Miss_Van_y_Ciou.jpg){fig-align="center" style="margin-bottom: 0;" width="488"}
 
-::: {.center style="text-align: center; font-size: 90%; margin-top: 0; line-height: 0.8"}
+::: {.center style="text-align: center; font-size: 90%; margin-top: 0; line-height: 0.8;"}
 [Image: Graffiti by Miss Van and Ciou, Plaça de Sant Josep/Mercat de la Boqueria,\
 Ciutat Vella (Barcelona) (aikijuanma from Barcelona, Spain, CC BY 2.0, via Wikimedia Commons)]{style="font-size: 70%;"}
 :::
 
-研究活動や教育活動に関わる雑記と雑感、刊行物に関する補足などを不定期で書いています。
+このブログでは、研究や教育に関わる雑、刊行物に関する補足などを不定期で書いています。

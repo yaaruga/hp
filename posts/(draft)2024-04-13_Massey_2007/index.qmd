@@ -5,8 +5,5 @@ date: "2024-04-11"
 categories: [Imput]
 draft: true
 ---
-Massey, Douglas S. 2007. *Categorically Unequal: The American Stratification System*. New York: Russell Sage Foundation.
 
-:::{.callout-note}
-## 人種と階層化
-:::
+Massey, Douglas S. 2007. *Categorically Unequal: The American Stratification System*. New York: Russell Sage Foundation.

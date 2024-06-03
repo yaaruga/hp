@@ -11,6 +11,6 @@ date-format: "YYYY-MM-DD"
 ※ \[at\] を \@ に置き換えた上でご連絡ください。\
 I can be reached at the address below. Please replace \[at\] with \@.
 
-::: {.center style="text-align: center; font-size: 120%; font-family: \"Meiryo"}
+::: {.contact style="text-align: center; font-size: 120%; font-family: \"Meiryo"}
 **yaarugannw \[at\] gmail.com**
 :::

@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://yaaruga.github.io/hp/blog.html</loc>
-    <lastmod>2024-06-02T06:47:26.148Z</lastmod>
+    <lastmod>2024-06-03T14:10:31.689Z</lastmod>
   </url>
   <url>
     <loc>https://yaaruga.github.io/hp/about.html</loc>
-    <lastmod>2024-05-27T12:52:33.060Z</lastmod>
+    <lastmod>2024-06-02T09:58:18.328Z</lastmod>
   </url>
   <url>
     <loc>https://yaaruga.github.io/hp/work.html</loc>
@@ -42,7 +42,7 @@
   </url>
   <url>
     <loc>https://yaaruga.github.io/hp/contact.html</loc>
-    <lastmod>2024-06-02T06:23:19.215Z</lastmod>
+    <lastmod>2024-06-02T10:02:28.843Z</lastmod>
   </url>
   <url>
     <loc>https://yaaruga.github.io/hp/posts/2024-04-24_Tonomura_2010/index.html</loc>
@@ -55,6 +55,10 @@
   <url>
     <loc>https://yaaruga.github.io/hp/posts/2024-05-01_Ph.d_book/index.html</loc>
     <lastmod>2024-05-01T14:09:27.118Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yaaruga.github.io/hp/posts/2024-04-24_Bail_2021/index.html</loc>
+    <lastmod>2024-06-02T10:04:04.622Z</lastmod>
   </url>
   <url>
     <loc>https://yaaruga.github.io/hp/posts/2024-04-13_creating_websites/index.html</loc>
@@ -82,6 +86,6 @@
   </url>
   <url>
     <loc>https://yaaruga.github.io/hp/project.html</loc>
-    <lastmod>2024-06-02T08:42:00.110Z</lastmod>
+    <lastmod>2024-06-03T14:12:13.027Z</lastmod>
   </url>
 </urlset>
