@@ -37,15 +37,17 @@ website:
 format:
   html: 
     theme: flatly 
-    page-layout: full
+    page-layout: article
     fontsize: 1.2em
-    linestretch: 1.7
+    linestretch: 1.6
     toc: true
     bibliography: BibTex/Website.bib
     link-citations: true
     citeproc: true
-    csl: csl/american-journal-of-sociology.csl
+    csl: csl/american-sociological-association.csl
     css: css/style.css
+    grid:
+      sidebar-width: 350px
 
 editor: source
 

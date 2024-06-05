@@ -6,10 +6,6 @@ categories: [Misc, R]
 format: html
 draft: true
 number-sections: true
-bibliography: ../../BibTex/Website.bib
-cite-method: citeproc
-csl: ../../csl/american-sociological-association.csl
-css: ../../css/stylesheet.css
 ---
 
 # 背景
