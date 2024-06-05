@@ -15,19 +15,7 @@
 <link>https://yaaruga.github.io/hp/blog.html</link>
 </image>
 <generator>quarto-1.5.40</generator>
-<lastBuildDate>Sat, 01 Jun 2024 15:00:00 GMT</lastBuildDate>
-<item>
-  <title></title>
-  <dc:creator>yaaruga </dc:creator>
-  <link>https://yaaruga.github.io/hp/posts/(draft)2024-04-24_Bail_2021/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>Imput</category>
-  <category>Social media</category>
-  <category>Teaching</category>
-  <category>Media</category>
-  <guid>https://yaaruga.github.io/hp/posts/(draft)2024-04-24_Bail_2021/</guid>
-  <pubDate>Sat, 01 Jun 2024 15:00:00 GMT</pubDate>
-</item>
+<lastBuildDate>Thu, 23 May 2024 15:00:00 GMT</lastBuildDate>
 <item>
   <title>【文献】Frassl et al. (2018) 「共著論文を共同執筆するための簡単な10のルール」</title>
   <dc:creator>yaaruga </dc:creator>
@@ -248,43 +236,6 @@ Frassl, Marieke A., David P. Hamilton, Blaize A. Denfeld, Elvira De Eyto, Stepha
   <pubDate>Tue, 21 May 2024 15:00:00 GMT</pubDate>
 </item>
 <item>
-  <title></title>
-  <dc:creator>yaaruga </dc:creator>
-  <link>https://yaaruga.github.io/hp/posts/2024-05-20_Josei_Joho/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>Media</category>
-  <guid>https://yaaruga.github.io/hp/posts/2024-05-20_Josei_Joho/</guid>
-  <pubDate>Sun, 19 May 2024 15:00:00 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <dc:creator>yaaruga </dc:creator>
-  <link>https://yaaruga.github.io/hp/posts/2024-05-20_Reading_Tips/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>Misc</category>
-  <guid>https://yaaruga.github.io/hp/posts/2024-05-20_Reading_Tips/</guid>
-  <pubDate>Sun, 19 May 2024 15:00:00 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <dc:creator>yaaruga </dc:creator>
-  <link>https://yaaruga.github.io/hp/posts/2024-05-10_Presentations_and_Documents/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>Misc</category>
-  <category>R</category>
-  <guid>https://yaaruga.github.io/hp/posts/2024-05-10_Presentations_and_Documents/</guid>
-  <pubDate>Fri, 10 May 2024 15:00:00 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <dc:creator>yaaruga </dc:creator>
-  <link>https://yaaruga.github.io/hp/posts/(draft)2024-05-01_lit_review_content_analysis/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>Output</category>
-  <guid>https://yaaruga.github.io/hp/posts/(draft)2024-05-01_lit_review_content_analysis/</guid>
-  <pubDate>Tue, 30 Apr 2024 15:00:00 GMT</pubDate>
-</item>
-<item>
   <title>博論本の進捗報告会を開催します</title>
   <dc:creator>yaaruga </dc:creator>
   <link>https://yaaruga.github.io/hp/posts/2024-05-01_Ph.d_book/</link>
@@ -303,19 +254,6 @@ Frassl, Marieke A., David P. Hamilton, Blaize A. Denfeld, Elvira De Eyto, Stepha
   <category>Output</category>
   <guid>https://yaaruga.github.io/hp/posts/2024-05-01_Ph.d_book/</guid>
   <pubDate>Tue, 30 Apr 2024 15:00:00 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <dc:creator>yaaruga </dc:creator>
-  <link>https://yaaruga.github.io/hp/posts/(draft)2024-04-29_Chun_2020/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>Imput</category>
-  <category>Teaching</category>
-  <category>Immigrant</category>
-  <category>Ethnicity/Race</category>
-  <category>Quotes</category>
-  <guid>https://yaaruga.github.io/hp/posts/(draft)2024-04-29_Chun_2020/</guid>
-  <pubDate>Sun, 28 Apr 2024 15:00:00 GMT</pubDate>
 </item>
 <item>
   <title>【文献】外村大（2011）「ポスト植民地主義と在日朝鮮人」</title>
@@ -860,15 +798,6 @@ Woo, Yujin. 2022. <span>“Homogenous <span>Japan</span>? <span>An Empirical Exa
   <pubDate>Mon, 15 Apr 2024 15:00:00 GMT</pubDate>
 </item>
 <item>
-  <title></title>
-  <dc:creator>yaaruga </dc:creator>
-  <link>https://yaaruga.github.io/hp/posts/(draft)2024-04-13_Massey_2007/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>Imput</category>
-  <guid>https://yaaruga.github.io/hp/posts/(draft)2024-04-13_Massey_2007/</guid>
-  <pubDate>Wed, 10 Apr 2024 15:00:00 GMT</pubDate>
-</item>
-<item>
   <title>ど素人がGitHubとQuartoとR Markdownで研究者用のウェブサイトをつくってみる</title>
   <dc:creator>yaaruga </dc:creator>
   <link>https://yaaruga.github.io/hp/posts/2024-04-13_creating_websites/</link>
@@ -911,6 +840,60 @@ Woo, Yujin. 2022. <span>“Homogenous <span>Japan</span>? <span>An Empirical Exa
   <category>Tips</category>
   <guid>https://yaaruga.github.io/hp/posts/2024-04-13_creating_websites/</guid>
   <pubDate>Wed, 10 Apr 2024 15:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>2021年度日本学術振興会特別研究員DC2（社会学専門分野）の申請書を公開します</title>
+  <dc:creator>yaaruga </dc:creator>
+  <link>https://yaaruga.github.io/hp/posts/2024-04-11_DC2/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>有賀は2021年に、2022年度日本学術振興会特別研究員DC2（社会学専門分野）に採用されました。研究題目は「「混血児問題」の歴史社会学:戦後日本における多人種性をめぐる実践と経験」です。</p>
+<p>DC1では1回、DC2では1回それぞれ落第した経験をへての採用なので、戦歴としてはボロボロです。 ただ3年目になると流石に自分でもノウハウを蓄積できたこともあり、最初に比べると大幅に水準が向上し、なんとか合格することができました。</p>
+<p>最近はありがたいことに、申請書の閲覧を希望する方から連絡を受けるようにもなってきました。せっかくなので、より広く社会学専門分野でDCを目指している人の役に立ったらと思い、申請書を公開することにしました。</p>
+<p><a href="https://drive.google.com/file/d/16YQ9Z4jfpyWKrZbMLGjk1gN1aKNvBwzv/view?usp=sharing">2022年度日本学術振興会特別研究員DC2申請書</a></p>
+<p>申請書の書き方のノウハウについてはすでにネット上の記事や書籍でかなり広くまとめられているので、付け加えることはありません。経験則として強調したいのは、早く・何度も書くこと、そして何度も添削してもらうことです。私自身、先輩方の手厚い添削がなければ合格は間違いなく実現していませんでしたし、「こうすれば自分の研究内容の要点が伝わるのか」という勘所がつかめるようになったのは、大きな収穫でした。</p>
+<p>いま読みなおすとかなり荒削りですし、どこまで・だれの役に立つかもわかりませんが、広い意味でのエスニックマイノリティの研究をしてる社会学分野の人、マイノリティ集団の歴史を研究してる社会学分野の人にはもしかすると何か示唆が得られるかもしれません。</p>
+<p>2024-04-24 追記</p>
+<p>過去のブックマークを漁っていたら、松浦優さん（九州大学）の<a href="https://twitter.com/wrmtw/status/1642919786756849670">ポスト</a>でいくつか他の社会学系のDCのtipsや申請書類のエントリがまとめられていたので、以下に列挙します。</p>
+<ul>
+<li><p><a href="https://terukisanada.com/dc2/">学振DC2（社会学）の採用内定をいただいて　申請書の書き方など</a></p></li>
+<li><p><a href="https://researchmap.jp/blogs/blog_entries/view/546680/1788632a3f055cdaa3af67db687c67c2?frame_id=1074457">「学振DC1採用内定獲得に至るまで（雑感）」</a></p></li>
+<li><p><a href="https://note.com/h_keisuke/n/n8332d72b7308">「DC1学振申請書の書き方・コツ・対策（社会科学の補欠繰上合格）」</a></p></li>
+<li><p><a href="https://ryotamugiyama.com/blog/2017-02-20-gakushinDC.html">「学振DC（社会科学）の申請書を公開します」</a></p></li>
+<li><p><a href="https://tsukasatanihara.hatenablog.com/entry/2019/04/05/133403">「学振申請書（文系）の書き方（の一例）」</a></p></li>
+</ul>
+
+
+
+ ]]></description>
+  <category>Tips</category>
+  <category>Grant</category>
+  <guid>https://yaaruga.github.io/hp/posts/2024-04-11_DC2/</guid>
+  <pubDate>Wed, 10 Apr 2024 15:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>このサイトの開設の経緯</title>
+  <dc:creator>yaaruga </dc:creator>
+  <link>https://yaaruga.github.io/hp/posts/2024-04-10_front_matter/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>2024年3月をもって大学院博士課程を修了して自分の経歴に一区切りがついたこと、今後のキャリアの展開のためにはパーソナル・ウェブサイトの運営はほぼ必須になっていることを踏まえて、2024年4月に研究者としての自分のサイトを開設しました。</p>
+<p>このブログでは、主に、研究活動上の雑考、分野を同じくする他の研究者への（役に立つ保証のまったくない）tipsやノウハウを提供する記事を投稿していく予定です。</p>
+
+
+
+ ]]></description>
+  <category>Misc</category>
+  <guid>https://yaaruga.github.io/hp/posts/2024-04-10_front_matter/</guid>
+  <pubDate>Tue, 09 Apr 2024 15:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

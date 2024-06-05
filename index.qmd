@@ -5,7 +5,7 @@ about:
   template: marquee
 ---
 
-[![](img/suwa_lake.jpg){fig-alt="Lake Suwa, Nagano Prefecture, Japan, 25 May 2019 (Sei F, CC BY-SA 2.0, via Wikimedia Commons)" style="display: block; margin: 0 auto; padding: 0 0;" width="722" height="447"}](https://commons.wikimedia.org/wiki/File:Lake_Suwa,_Nagano_Prefecture;_May_2019_(02).jpg)
+[![](img/suwa_lake.jpg){fig-alt="Lake Suwa, Nagano Prefecture, Japan, 25 May 2019 (Sei F, CC BY-SA 2.0, via Wikimedia Commons)" fig-align="center" style="display: block; margin: 0 auto; padding: 0 0;" width="720" height="390"}](https://commons.wikimedia.org/wiki/File:Lake_Suwa,_Nagano_Prefecture;_May_2019_(02).jpg)
 
 ::: {#me style="margin: 0 auto; font-family: \"UD デジタル 教科書体 N-R\": padding-top: 0;"}
 社会学、人種・エスニシティ論を専門とする研究者、有賀ゆうアニースのウェブサイトです。 私の研究のプロジェクトや成果、雑記などをまとめています。

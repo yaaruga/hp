@@ -37,7 +37,7 @@ website:
 format:
   html: 
     theme: flatly 
-    page-layout: article
+    page-layout: full
     fontsize: 1.2em
     linestretch: 1.6
     toc: true
@@ -46,8 +46,6 @@ format:
     citeproc: true
     csl: csl/american-sociological-association.csl
     css: css/style.css
-    grid:
-      sidebar-width: 350px
 
 editor: source
 

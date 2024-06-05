@@ -1,2 +1,7 @@
 body {
   font-family: "Meiryo"}
+  
+img {
+  max-width: 100%;
+  height: auto;
+  }
