@@ -15,7 +15,306 @@
 <link>https://yaaruga.github.io/hp/blog.html</link>
 </image>
 <generator>quarto-1.5.40</generator>
-<lastBuildDate>Thu, 23 May 2024 15:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 Jun 2024 15:00:00 GMT</lastBuildDate>
+<item>
+  <title>【私家版】Quartoによる楽ちんドキュメント・プレゼンテーション作成術</title>
+  <dc:creator>yaaruga </dc:creator>
+  <link>https://yaaruga.github.io/hp/posts/2024-05-10_Presentations_and_Documents/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="背景" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> 背景</h1>
+<p><a href="2024-06-16_JAMS.html">リンク</a></p>
+<p>博論執筆が苦痛すぎて合間にRの学習を始めてからおよそ半年が経過した。この間にQuartoと組み合わせてサイトを創設したり、各種パッケージを用いてデータの前処理や分析の練習をしてきたのだが、（すさまじく低レベルとはいえ）あるていど慣れてくると、いろんなことに手を出したくなってきた。その一環として取り組みだしたのが、QuartoとRによるアウトプット（ドキュメントとプレゼンテーション）の作成である。別に特段MSの環境に不満があるわけではないけれど、長期的に見ればそのほうが効率的かつ健全であるというのが理由である <span class="citation" data-cites="gaoqiao2018b">(高橋 2018)</span> 。英語の公式サイトやおなじみの『私たちのR』が秀逸なガイドを提供しているし、以下のような個別のエントリもとてもわかりやすいので、付け足すことはないのだが、どうせなら自分の頭を整理するためにということで、このエントリではどんな要領でアウトプットの産出をやっている（やっていこうとしている）のかを簡単にまとめたい。あくまで私家版・備忘録であり、汎用性はまったく保証されない点にご注意ください。</p>
+</section>
+<section id="文書をつくる" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> 文書をつくる</h1>
+<section id="html文書をつくる" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="html文書をつくる"><span class="header-section-number">2.1</span> html文書をつくる</h2>
+</section>
+<section id="pdf文書をつくる" class="level2" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="pdf文書をつくる"><span class="header-section-number">2.2</span> PDF文書をつくる</h2>
+<p>自分のような主に日本語で、それも質的調査にもとづく研究とか学部生向けの教材をつくるのを目的にしている場合、PDFとWordをつかわないといけないことがよくある。けれど、PDFで日本語をやろうとするといろいろと面倒なこともあるので、若干の工夫が必要。</p>
+</section>
+<section id="word文書をつくる" class="level2" data-number="2.3">
+<h2 data-number="2.3" class="anchored" data-anchor-id="word文書をつくる"><span class="header-section-number">2.3</span> word文書をつくる</h2>
+<ol type="1">
+<li>RStudioを立ち上げる</li>
+<li>[File] &gt; [New File] &gt; [Quarto Document] をそれぞれ順番に選ぶ</li>
+<li>New Quarto Document というウィンドウ上で [PDF] を選択して[create] を押すと、[untitled]というファイルが生成される</li>
+<li>生成したファイルのYAMLヘッダーを以下のように書き換える<sup>1</sup>。あくまで一例だが、だいたいこのくらいのフィールドを指示しておけば困らないはず。</li>
+</ol>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">---</span></span>
+<span id="cb1-2"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># 公式のガイドを参照: https://quarto.org/docs/reference/formats/docx.html</span></span>
+<span id="cb1-3">title<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"社会学入門"</span> <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#タイトル</span></span>
+<span id="cb1-4">subtitle<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"05回 エスニシティとポピュラー文化"</span> <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#サブタイトル</span></span>
+<span id="cb1-5">author<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span>  <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"有賀ゆうアニース (大阪公立大学)"</span> <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#著者名</span></span>
+<span id="cb1-6">date<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"2024-06-18"</span> <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#日付</span></span>
+<span id="cb1-7">format<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> </span>
+<span id="cb1-8">  docx<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span></span>
+<span id="cb1-9">    toc<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> true <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#目次を表示させるか</span></span>
+<span id="cb1-10">    toc<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">-</span>depth<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span> <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#目次を上から何番目の見出しまで表示させるか</span></span>
+<span id="cb1-11">    toc<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">-</span>title<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"メニュー"</span> <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#目次のタイトル</span></span>
+<span id="cb1-12">    number<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">-</span>sections<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> true <span class="do" style="color: #5E5E5E;
+background-color: null;
+font-style: italic;">##見出しをナンバリングするか</span></span>
+<span id="cb1-13">    page<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">-</span>width<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">6.5</span> <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#ページの幅(インチ単位。デフォルトは6.5インチ)</span></span>
+<span id="cb1-14">    colorlinks<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> true <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#リンクに配色するか</span></span>
+<span id="cb1-15">cite<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">-</span>method<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> citeproc <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#文献を特定のフォーマットで引用する（詳細は後述）</span></span>
+<span id="cb1-16">bibliography<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> ..<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">/</span>BibTeX<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">/</span>Own.bib <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#文献のソースとなりbibファイル（詳細は後述）</span></span>
+<span id="cb1-17">csl<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> ..<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">/</span>csl<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">/</span>american<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">-</span>sociological<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">-</span>association.csl <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#文献のフォーマットを指定するcslファイル（詳細は後述）</span></span>
+<span id="cb1-18"><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">---</span></span></code></pre></div>
+</div>
+<ol start="5" type="1">
+<li><h2 id="あとはquartoの公式サイトが提供する基礎編と応用編また私たちのrの26-quarto入門を参考に内容を書き込んでいく" data-number="2.4" class="anchored"><span class="header-section-number">2.4</span> あとはQuartoの公式サイトが提供する<a href="https://quarto.org/docs/reference/formats/docx.html#rendering">基礎編</a>と<a href="https://quarto.org/docs/reference/formats/docx.html">応用編</a>、また『私たちのR』の<a href="https://www.jaysong.net/RBook/quarto.html">「26 Quarto入門」</a>を参考に内容を書き込んでいく。</h2></li>
+</ol>
+</section>
+</section>
+<section id="section" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> </h1>
+<section id="なぜ-reveal-js-か" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="なぜ-reveal-js-か"><span class="header-section-number">3.1</span> なぜ Reveal JS か</h2>
+<p>QuartoかRMarkdownでプレゼン用のスライドをつくる場合、候補は以下があるようだ。</p>
+<ol type="1">
+<li>PowerPoint (MS Office)</li>
+<li>Reveal.js (HTML)</li>
+<li>Beamer (LaTeX/PDF)</li>
+<li>ioslides (HTML)</li>
+<li>Slidy (HTML)</li>
+</ol>
+<p>どれを選ぶか。これについてはQuartoの公式が1, 2, 3のうち、特に有能かつPDF化・配布に適したものとして2を推奨している。</p>
+<blockquote class="blockquote">
+<p>There are pros and cons to each of these formats. The most capable format by far is revealjs, so it is highly recommended unless you have specific Office or LaTeX output requirements. Note that revealjs presentations can be presented as HTML slides or can be printed to PDF for easier distribution.</p>
+</blockquote>
+<p>ただし私のようにRMarkdownも使っている人からすると、でも4と5はどうなの？というのが気になる。これについて色々調べてみたのだが、暫定的かつ独断的な結論としては、やはり2が妥当であるようだ。具体的には他の候補と比べて以下のprosがある。</p>
+<ul>
+<li>Slidyはあまりにもシンプルすぎてフォーマルな場面でのスライドとしては物足りないので却下</li>
+<li>Reveal.jsはデフォルトでより字体が明瞭で、読みやすい</li>
+<li>今後QuartoがRMarkdownよりも主流になるという蓋然性があるが、Quartoでデフォルトで使えるのはReveal.js</li>
+<li>PDF化したときにReveal.jsのほうが読みやすい</li>
+<li>目次を自動生成する項目がioslidesにはないけどReveal.jsにはある</li>
+</ul>
+<p>上記はいずれも決定的な相違点ではないけれど、長期的に・いろんな場面で・効率重視でスライド作成をしたいという自分のニーズをふまえると、スライド作成方法としてはQuartoでReveal.jsを動かすのが現時点での私的な最善策であるらしい。</p>
+</section>
+<section id="reveal-js-発表資料をつくる" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="reveal-js-発表資料をつくる"><span class="header-section-number">3.2</span> Reveal JS 発表資料をつくる</h2>
+<ol type="1">
+<li>ファイルの雛形を作る</li>
+<li>RStudioを立ち上げる</li>
+<li>File &gt; New File &gt; Quarto Presentation をそれぞれ順番に選ぶ</li>
+<li>New Quarto Presentation というウィンドウ上で Reveal JS を選択し、 create を押すと、untitledというファイルが生成される</li>
+<li>ファイルに書き込む</li>
+<li>デフォルトでは以下の表示があるので、</li>
+</ol>
+</section>
+</section>
+<section id="おまけ" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> おまけ</h1>
+<section id="文書資料に文献リストを自動でつくる" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="文書資料に文献リストを自動でつくる"><span class="header-section-number">4.1</span> 文書・資料に文献リストを自動でつくる</h2>
+<p>分野や地位を問わず、研究者にとって文献を形式的基準に従って整序することは避けられない課題である。自分は博士に進学して1年目からMendeley, 3年目からZoteroを使い始めたが、いずれも特定のフォルダに格納した文献を自動で所定の形式にしたがってリスト化する機能がある。もちろんこれがあるだけでも手でやるのにくらべればはるかに効率的なのだが、それでも長く使っていると不満が出てくる。端的に言えば、本文でどの文献に研究するのかと文献リストにどの文献を収録するかを逐一目視で点検・補正しないといけない、ということである。もちろんそれはそこまで時間浪費的ではないけど、再現性はないし、ケアレスミスも起きやすい。 (実際自分は過去に複数回投稿論文とリストが対応していないというミスを犯したことがある。)</p>
+<p>となると、理想は、本文で言及した文献を自動的かつ網羅的にリストに順番通りに並べてくれる機能なわけだが、ありがたいことにQuartoやRMarkdownではbibliographyフィールドを使うことで、これができる。上で取り上げたいずれの文書・資料の形式でもやり方は、以下の通り同じである。以下、筆者が愛用するZoteroのデスクトップアプリをインストールしすでに運用していることを前提に説明する。</p>
+<ol type="1">
+<li><p>Zoteroで任意のプロジェクトに対応したコレクションをつくる</p>
+<ul>
+<li>zoteroにはデフォルトで<a href="https://www.zotero.org/support/collections_and_tags">コレクション機能</a>があるので、これを使う。名前は何でもいいが、Rのディレクトリやファイル名と対応させるとわかりやすい。</li>
+</ul></li>
+<li><p>1でつくったコレクションに、当該プロジェクトで引用する可能性がある文献を格納する</p>
+<ul>
+<li>たとえば有賀の場合、PDとして従事するメイン・プロジェクトに少しでも関連する文献はすべて見つけ次第コレクション格納している。</li>
+<li>後述するとおり、エクスポートされた文献引用のソースファイルの中身はコレクションの変更にあわせ自動的に更新されるので、見つけしだい即座に格納することが望ましい。</li>
+<li>ちなみに1つ注意点がある。書籍の地名の問題である。
+<ul>
+<li><p>プロジェクトのアウトプットの形態が何なのかにも大きく依存するが、特にciniiやgoogle booksでZotero connectorを使って文献情報を作成していると、書籍に地名がついてないことがよくある。大抵のジャーナルではファーマットの設定上書籍の書誌情報に地名が必要とされるので、これは重要な形式上の不備になりうる。</p></li>
+<li><p>RISやBibTeXにはaddress項目が記載されていないのでそれをインポートしても同じことである。あるいはgoogle booksをつかっても同様。Amazon をつかうと地名は反映されるが出版社名が省略されたりするのでこれも却下。</p></li>
+<li><p>Gemini にも相談したが良案はなかった。という経緯を踏まえて、不承不承、手打ちで各アイテムに地名を記入しているが、もし代案があればどなたかご教示いただけると幸いです。</p></li>
+</ul></li>
+</ul></li>
+<li><h2 id="zotero-better-bibtexをインストールする2" data-number="4.2" class="anchored"><span class="header-section-number">4.2</span> Zotero-better-bibtexをインストールする<sup>2</sup></h2>
+<ul>
+<li>たとえば有賀の場合、PDとして従事するメイン・プロジェクトに少しでも関連する文献はすべて見つけ次第コレクション格納している。</li>
+</ul></li>
+<li><p>yamlヘッダに以下のフィールドと値を記入する。詳細は<a href="https://quarto.org/docs/authoring/footnotes-and-citations.html">公式の説明</a>がわかりやすいが、おおむね次のような趣旨である。</p>
+<ul>
+<li><code>bibliography: ../../BibTex/Website.bib</code>は、任意のソースファイル (ここでは、)</li>
+<li><code>cite-method: citeproc</code> は、pandoc-citeprocというPandocの文献目録を作成するアドインツールを読み込む。</li>
+<li><code>csl: ../../csl/american-sociological-association.csl</code></li>
+</ul></li>
+</ol>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1">bibliography<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> ..<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">/</span>..<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">/</span>BibTex<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">/</span>Website.bib</span>
+<span id="cb2-2">cite<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">-</span>method<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> citeproc</span>
+<span id="cb2-3">csl<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> ..<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">/</span>..<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">/</span>csl<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">/</span>american<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">-</span>sociological<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">-</span>association.csl</span></code></pre></div>
+</div>
+<ol start="4" type="1">
+<li><a href="https://quarto.org/docs/authoring/footnotes-and-citations.html#bibliography-generation">テキスト本文の文献リストを配置したい箇所に以下のチャンクコードを記入する。</a>こうすることで、当該箇所に文献リストが生成される。</li>
+</ol>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:::</span> {<span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#refs}</span></span>
+<span id="cb3-2"><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:::</span></span></code></pre></div>
+</div>
+<div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-gaoqiao2018b" class="csl-entry">
+高橋康介. 2018. <em><span>再現可能性のすゝめ：RStudioによるデータ解析とレポート作成</span></em>. 共立出版.
+</div>
+</div>
+<ul>
+<li class="japanese-reference">
+<p>近藤敦. 2019. 多文化共生と人権――諸外国の「移民」と日本の「外国人」. 明石書店.</p>
+</li>
+<li class="japanese-reference">
+<p>額賀美紗子. 2019. “フィリピン系移民第二世代の階層分化とエスニシティの日常的実践——エスニシティは上昇移動の資源か、障壁か.” Pp. 245–64 in 人口問題と移民——日本の人口・階層構造はどう変わるのか, edited by 是川夕編著. 明石書店.</p>
+</li>
+</ul>
+
+
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p><a href="https://zenn.dev/shuntarosato/articles/e1ff406cbacc22">「日本語含めたPDFファイルをQuartoから出力する（mac）」</a>を参考にしました。↩︎</p></li>
+<li id="fn2"><p><a href="https://qiita.com/skrb_hs/items/73061b7a8e39f1e73e0d#zotero-better-bibtex%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB">「Zotero+BibTeXで参考文献の出力を自動化&amp;論文の引用で出てきた順にソートする」</a>を参考にしました↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>Misc</category>
+  <category>R</category>
+  <guid>https://yaaruga.github.io/hp/posts/2024-05-10_Presentations_and_Documents/</guid>
+  <pubDate>Tue, 04 Jun 2024 15:00:00 GMT</pubDate>
+</item>
 <item>
   <title>【文献】Frassl et al. (2018) 「共著論文を共同執筆するための簡単な10のルール」</title>
   <dc:creator>yaaruga </dc:creator>

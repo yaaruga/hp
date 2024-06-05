@@ -1,2 +1,854 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"></html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.40">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="yaaruga">
+<meta name="dcterms.date" content="2024-06-05">
+
+<title>Yu-Anis Aruga – 【私家版】Quartoによる楽ちんドキュメント・プレゼンテーション作成術</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-23K2TX0WXL"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-23K2TX0WXL', { 'anonymize_ip': true});
+</script>
+
+
+<link rel="stylesheet" href="../../css/style.css">
+<meta property="og:title" content="Yu-Anis Aruga - 【私家版】Quartoによる楽ちんドキュメント・プレゼンテーション作成術">
+<meta property="og:description" content="Yu-Anis Aruga’s Website">
+<meta property="og:image" content="https://yaaruga.github.io/hp/posts/2024-05-10_Presentations_and_Documents/img/Miss_Van_y_Ciou.jpg">
+<meta property="og:site_name" content="Yu-Anis Aruga">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Yu-Anis Aruga</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../work.html"> 
+<span class="menu-text">Works</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../project.html"> 
+<span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../contact.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../blog.html"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools tools-wide">
+    <a href="https://twitter.com/yu78730833" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter-x"></i></a>
+    <a href="https://www.facebook.com/yuanis.aruga/" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-facebook"></i></a>
+    <a href="https://www.instagram.com/arugaaayyy/" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-instagram"></i></a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">【私家版】Quartoによる楽ちんドキュメント・プレゼンテーション作成術</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">Misc</div>
+                <div class="quarto-category">R</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta column-page-left">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>yaaruga </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">June 5, 2024</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#背景" id="toc-背景" class="nav-link active" data-scroll-target="#背景"><span class="header-section-number">1</span> 背景</a></li>
+  <li><a href="#文書をつくる" id="toc-文書をつくる" class="nav-link" data-scroll-target="#文書をつくる"><span class="header-section-number">2</span> 文書をつくる</a>
+  <ul class="collapse">
+  <li><a href="#html文書をつくる" id="toc-html文書をつくる" class="nav-link" data-scroll-target="#html文書をつくる"><span class="header-section-number">2.1</span> html文書をつくる</a></li>
+  <li><a href="#pdf文書をつくる" id="toc-pdf文書をつくる" class="nav-link" data-scroll-target="#pdf文書をつくる"><span class="header-section-number">2.2</span> PDF文書をつくる</a></li>
+  <li><a href="#word文書をつくる" id="toc-word文書をつくる" class="nav-link" data-scroll-target="#word文書をつくる"><span class="header-section-number">2.3</span> word文書をつくる</a></li>
+  </ul></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"><span class="header-section-number">3</span> </a>
+  <ul class="collapse">
+  <li><a href="#なぜ-reveal-js-か" id="toc-なぜ-reveal-js-か" class="nav-link" data-scroll-target="#なぜ-reveal-js-か"><span class="header-section-number">3.1</span> なぜ Reveal JS か</a></li>
+  <li><a href="#reveal-js-発表資料をつくる" id="toc-reveal-js-発表資料をつくる" class="nav-link" data-scroll-target="#reveal-js-発表資料をつくる"><span class="header-section-number">3.2</span> Reveal JS 発表資料をつくる</a></li>
+  </ul></li>
+  <li><a href="#おまけ" id="toc-おまけ" class="nav-link" data-scroll-target="#おまけ"><span class="header-section-number">4</span> おまけ</a>
+  <ul class="collapse">
+  <li><a href="#文書資料に文献リストを自動でつくる" id="toc-文書資料に文献リストを自動でつくる" class="nav-link" data-scroll-target="#文書資料に文献リストを自動でつくる"><span class="header-section-number">4.1</span> 文書・資料に文献リストを自動でつくる</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+
+
+
+
+
+<section id="背景" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> 背景</h1>
+<p><a href="2024-06-16_JAMS.html">リンク</a></p>
+<p>博論執筆が苦痛すぎて合間にRの学習を始めてからおよそ半年が経過した。この間にQuartoと組み合わせてサイトを創設したり、各種パッケージを用いてデータの前処理や分析の練習をしてきたのだが、（すさまじく低レベルとはいえ）あるていど慣れてくると、いろんなことに手を出したくなってきた。その一環として取り組みだしたのが、QuartoとRによるアウトプット（ドキュメントとプレゼンテーション）の作成である。別に特段MSの環境に不満があるわけではないけれど、長期的に見ればそのほうが効率的かつ健全であるというのが理由である <span class="citation" data-cites="gaoqiao2018b">(<a href="#ref-gaoqiao2018b" role="doc-biblioref">高橋 2018</a>)</span> 。英語の公式サイトやおなじみの『私たちのR』が秀逸なガイドを提供しているし、以下のような個別のエントリもとてもわかりやすいので、付け足すことはないのだが、どうせなら自分の頭を整理するためにということで、このエントリではどんな要領でアウトプットの産出をやっている（やっていこうとしている）のかを簡単にまとめたい。あくまで私家版・備忘録であり、汎用性はまったく保証されない点にご注意ください。</p>
+</section>
+<section id="文書をつくる" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> 文書をつくる</h1>
+<section id="html文書をつくる" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="html文書をつくる"><span class="header-section-number">2.1</span> html文書をつくる</h2>
+</section>
+<section id="pdf文書をつくる" class="level2" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="pdf文書をつくる"><span class="header-section-number">2.2</span> PDF文書をつくる</h2>
+<p>自分のような主に日本語で、それも質的調査にもとづく研究とか学部生向けの教材をつくるのを目的にしている場合、PDFとWordをつかわないといけないことがよくある。けれど、PDFで日本語をやろうとするといろいろと面倒なこともあるので、若干の工夫が必要。</p>
+</section>
+<section id="word文書をつくる" class="level2" data-number="2.3">
+<h2 data-number="2.3" class="anchored" data-anchor-id="word文書をつくる"><span class="header-section-number">2.3</span> word文書をつくる</h2>
+<ol type="1">
+<li>RStudioを立ち上げる</li>
+<li>[File] &gt; [New File] &gt; [Quarto Document] をそれぞれ順番に選ぶ</li>
+<li>New Quarto Document というウィンドウ上で [PDF] を選択して[create] を押すと、[untitled]というファイルが生成される</li>
+<li>生成したファイルのYAMLヘッダーを以下のように書き換える<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>。あくまで一例だが、だいたいこのくらいのフィールドを指示しておけば困らないはず。</li>
+</ol>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="sc">---</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="co"># 公式のガイドを参照: https://quarto.org/docs/reference/formats/docx.html</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>title<span class="sc">:</span> <span class="st">"社会学入門"</span> <span class="co">#タイトル</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>subtitle<span class="sc">:</span> <span class="st">"05回 エスニシティとポピュラー文化"</span> <span class="co">#サブタイトル</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>author<span class="sc">:</span>  <span class="st">"有賀ゆうアニース (大阪公立大学)"</span> <span class="co">#著者名</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>date<span class="sc">:</span> <span class="st">"2024-06-18"</span> <span class="co">#日付</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>format<span class="sc">:</span> </span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>  docx<span class="sc">:</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>    toc<span class="sc">:</span> true <span class="co">#目次を表示させるか</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>    toc<span class="sc">-</span>depth<span class="sc">:</span> <span class="dv">2</span> <span class="co">#目次を上から何番目の見出しまで表示させるか</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>    toc<span class="sc">-</span>title<span class="sc">:</span> <span class="st">"メニュー"</span> <span class="co">#目次のタイトル</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>    number<span class="sc">-</span>sections<span class="sc">:</span> true <span class="do">##見出しをナンバリングするか</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>    page<span class="sc">-</span>width<span class="sc">:</span> <span class="fl">6.5</span> <span class="co">#ページの幅(インチ単位。デフォルトは6.5インチ)</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>    colorlinks<span class="sc">:</span> true <span class="co">#リンクに配色するか</span></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>cite<span class="sc">-</span>method<span class="sc">:</span> citeproc <span class="co">#文献を特定のフォーマットで引用する（詳細は後述）</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>bibliography<span class="sc">:</span> ..<span class="sc">/</span>BibTeX<span class="sc">/</span>Own.bib <span class="co">#文献のソースとなりbibファイル（詳細は後述）</span></span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>csl<span class="sc">:</span> ..<span class="sc">/</span>csl<span class="sc">/</span>american<span class="sc">-</span>sociological<span class="sc">-</span>association.csl <span class="co">#文献のフォーマットを指定するcslファイル（詳細は後述）</span></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a><span class="sc">---</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<ol start="5" type="1">
+<li><h2 id="あとはquartoの公式サイトが提供する基礎編と応用編また私たちのrの26-quarto入門を参考に内容を書き込んでいく" data-number="2.4" class="anchored"><span class="header-section-number">2.4</span> あとはQuartoの公式サイトが提供する<a href="https://quarto.org/docs/reference/formats/docx.html#rendering">基礎編</a>と<a href="https://quarto.org/docs/reference/formats/docx.html">応用編</a>、また『私たちのR』の<a href="https://www.jaysong.net/RBook/quarto.html">「26 Quarto入門」</a>を参考に内容を書き込んでいく。</h2></li>
+</ol>
+</section>
+</section>
+<section id="section" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> </h1>
+<section id="なぜ-reveal-js-か" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="なぜ-reveal-js-か"><span class="header-section-number">3.1</span> なぜ Reveal JS か</h2>
+<p>QuartoかRMarkdownでプレゼン用のスライドをつくる場合、候補は以下があるようだ。</p>
+<ol type="1">
+<li>PowerPoint (MS Office)</li>
+<li>Reveal.js (HTML)</li>
+<li>Beamer (LaTeX/PDF)</li>
+<li>ioslides (HTML)</li>
+<li>Slidy (HTML)</li>
+</ol>
+<p>どれを選ぶか。これについてはQuartoの公式が1, 2, 3のうち、特に有能かつPDF化・配布に適したものとして2を推奨している。</p>
+<blockquote class="blockquote">
+<p>There are pros and cons to each of these formats. The most capable format by far is revealjs, so it is highly recommended unless you have specific Office or LaTeX output requirements. Note that revealjs presentations can be presented as HTML slides or can be printed to PDF for easier distribution.</p>
+</blockquote>
+<p>ただし私のようにRMarkdownも使っている人からすると、でも4と5はどうなの？というのが気になる。これについて色々調べてみたのだが、暫定的かつ独断的な結論としては、やはり2が妥当であるようだ。具体的には他の候補と比べて以下のprosがある。</p>
+<ul>
+<li>Slidyはあまりにもシンプルすぎてフォーマルな場面でのスライドとしては物足りないので却下</li>
+<li>Reveal.jsはデフォルトでより字体が明瞭で、読みやすい</li>
+<li>今後QuartoがRMarkdownよりも主流になるという蓋然性があるが、Quartoでデフォルトで使えるのはReveal.js</li>
+<li>PDF化したときにReveal.jsのほうが読みやすい</li>
+<li>目次を自動生成する項目がioslidesにはないけどReveal.jsにはある</li>
+</ul>
+<p>上記はいずれも決定的な相違点ではないけれど、長期的に・いろんな場面で・効率重視でスライド作成をしたいという自分のニーズをふまえると、スライド作成方法としてはQuartoでReveal.jsを動かすのが現時点での私的な最善策であるらしい。</p>
+</section>
+<section id="reveal-js-発表資料をつくる" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="reveal-js-発表資料をつくる"><span class="header-section-number">3.2</span> Reveal JS 発表資料をつくる</h2>
+<ol type="1">
+<li>ファイルの雛形を作る</li>
+<li>RStudioを立ち上げる</li>
+<li>File &gt; New File &gt; Quarto Presentation をそれぞれ順番に選ぶ</li>
+<li>New Quarto Presentation というウィンドウ上で Reveal JS を選択し、 create を押すと、untitledというファイルが生成される</li>
+<li>ファイルに書き込む</li>
+<li>デフォルトでは以下の表示があるので、</li>
+</ol>
+</section>
+</section>
+<section id="おまけ" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> おまけ</h1>
+<section id="文書資料に文献リストを自動でつくる" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="文書資料に文献リストを自動でつくる"><span class="header-section-number">4.1</span> 文書・資料に文献リストを自動でつくる</h2>
+<p>分野や地位を問わず、研究者にとって文献を形式的基準に従って整序することは避けられない課題である。自分は博士に進学して1年目からMendeley, 3年目からZoteroを使い始めたが、いずれも特定のフォルダに格納した文献を自動で所定の形式にしたがってリスト化する機能がある。もちろんこれがあるだけでも手でやるのにくらべればはるかに効率的なのだが、それでも長く使っていると不満が出てくる。端的に言えば、本文でどの文献に研究するのかと文献リストにどの文献を収録するかを逐一目視で点検・補正しないといけない、ということである。もちろんそれはそこまで時間浪費的ではないけど、再現性はないし、ケアレスミスも起きやすい。 (実際自分は過去に複数回投稿論文とリストが対応していないというミスを犯したことがある。)</p>
+<p>となると、理想は、本文で言及した文献を自動的かつ網羅的にリストに順番通りに並べてくれる機能なわけだが、ありがたいことにQuartoやRMarkdownではbibliographyフィールドを使うことで、これができる。上で取り上げたいずれの文書・資料の形式でもやり方は、以下の通り同じである。以下、筆者が愛用するZoteroのデスクトップアプリをインストールしすでに運用していることを前提に説明する。</p>
+<ol type="1">
+<li><p>Zoteroで任意のプロジェクトに対応したコレクションをつくる</p>
+<ul>
+<li>zoteroにはデフォルトで<a href="https://www.zotero.org/support/collections_and_tags">コレクション機能</a>があるので、これを使う。名前は何でもいいが、Rのディレクトリやファイル名と対応させるとわかりやすい。</li>
+</ul></li>
+<li><p>1でつくったコレクションに、当該プロジェクトで引用する可能性がある文献を格納する</p>
+<ul>
+<li>たとえば有賀の場合、PDとして従事するメイン・プロジェクトに少しでも関連する文献はすべて見つけ次第コレクション格納している。</li>
+<li>後述するとおり、エクスポートされた文献引用のソースファイルの中身はコレクションの変更にあわせ自動的に更新されるので、見つけしだい即座に格納することが望ましい。</li>
+<li>ちなみに1つ注意点がある。書籍の地名の問題である。
+<ul>
+<li><p>プロジェクトのアウトプットの形態が何なのかにも大きく依存するが、特にciniiやgoogle booksでZotero connectorを使って文献情報を作成していると、書籍に地名がついてないことがよくある。大抵のジャーナルではファーマットの設定上書籍の書誌情報に地名が必要とされるので、これは重要な形式上の不備になりうる。</p></li>
+<li><p>RISやBibTeXにはaddress項目が記載されていないのでそれをインポートしても同じことである。あるいはgoogle booksをつかっても同様。Amazon をつかうと地名は反映されるが出版社名が省略されたりするのでこれも却下。</p></li>
+<li><p>Gemini にも相談したが良案はなかった。という経緯を踏まえて、不承不承、手打ちで各アイテムに地名を記入しているが、もし代案があればどなたかご教示いただけると幸いです。</p></li>
+</ul></li>
+</ul></li>
+<li><h2 id="zotero-better-bibtexをインストールする2" data-number="4.2" class="anchored"><span class="header-section-number">4.2</span> Zotero-better-bibtexをインストールする<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></h2>
+<ul>
+<li>たとえば有賀の場合、PDとして従事するメイン・プロジェクトに少しでも関連する文献はすべて見つけ次第コレクション格納している。</li>
+</ul></li>
+<li><p>yamlヘッダに以下のフィールドと値を記入する。詳細は<a href="https://quarto.org/docs/authoring/footnotes-and-citations.html">公式の説明</a>がわかりやすいが、おおむね次のような趣旨である。</p>
+<ul>
+<li><code>bibliography: ../../BibTex/Website.bib</code>は、任意のソースファイル (ここでは、)</li>
+<li><code>cite-method: citeproc</code> は、pandoc-citeprocというPandocの文献目録を作成するアドインツールを読み込む。</li>
+<li><code>csl: ../../csl/american-sociological-association.csl</code></li>
+</ul></li>
+</ol>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>bibliography<span class="sc">:</span> ..<span class="sc">/</span>..<span class="sc">/</span>BibTex<span class="sc">/</span>Website.bib</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>cite<span class="sc">-</span>method<span class="sc">:</span> citeproc</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>csl<span class="sc">:</span> ..<span class="sc">/</span>..<span class="sc">/</span>csl<span class="sc">/</span>american<span class="sc">-</span>sociological<span class="sc">-</span>association.csl</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<ol start="4" type="1">
+<li><a href="https://quarto.org/docs/authoring/footnotes-and-citations.html#bibliography-generation">テキスト本文の文献リストを配置したい箇所に以下のチャンクコードを記入する。</a>こうすることで、当該箇所に文献リストが生成される。</li>
+</ol>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="sc">:::</span> {<span class="co">#refs}</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="sc">:::</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-gaoqiao2018b" class="csl-entry" role="listitem">
+高橋康介. 2018. <em><span>再現可能性のすゝめ：RStudioによるデータ解析とレポート作成</span></em>. 共立出版.
+</div>
+</div>
+<ul>
+<li class="japanese-reference">
+<p>近藤敦. 2019. 多文化共生と人権――諸外国の「移民」と日本の「外国人」. 明石書店.</p>
+</li>
+<li class="japanese-reference">
+<p>額賀美紗子. 2019. “フィリピン系移民第二世代の階層分化とエスニシティの日常的実践——エスニシティは上昇移動の資源か、障壁か.” Pp. 245–64 in 人口問題と移民——日本の人口・階層構造はどう変わるのか, edited by 是川夕編著. 明石書店.</p>
+</li>
+</ul>
+
+
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p><a href="https://zenn.dev/shuntarosato/articles/e1ff406cbacc22">「日本語含めたPDFファイルをQuartoから出力する（mac）」</a>を参考にしました。<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p><a href="https://qiita.com/skrb_hs/items/73061b7a8e39f1e73e0d#zotero-better-bibtex%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB">「Zotero+BibTeXで参考文献の出力を自動化&amp;論文の引用で出てきた順にソートする」</a>を参考にしました<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/yaaruga\.github\.io\/hp\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>Built with <a href="https://quarto.org/">Quarto</a>, <a href="https://posit.co/">RStudio</a>, and <a href="https://github.com/jtr13/quartobooktest">website-template</a></p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
