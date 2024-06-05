@@ -4,6 +4,7 @@ author: "yaaruga"
 date: "2024-06-05"
 categories: [Misc, R]
 format: html
+draft: true
 number-sections: true
 ---
 

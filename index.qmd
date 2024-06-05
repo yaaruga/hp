@@ -1,26 +1,28 @@
 ---
-title: "<center>Welcome to Yu-Anis Aruga's Website!</center>"
+title: "Welcome to Yu-Anis Aruga's Website !"
 about:
   id: me
-  template: marquee
+  template: trestles
+  image: img/suwa_lake.jpg
+  image-alt: "Lake Suwa, Nagano Prefecture, Japan, 25 May 2019 (Sei F, CC BY-SA 2.0, via Wikimedia Commons)"
+  image-width: 120%
 ---
 
-[![](img/suwa_lake.jpg){fig-alt="Lake Suwa, Nagano Prefecture, Japan, 25 May 2019 (Sei F, CC BY-SA 2.0, via Wikimedia Commons)" fig-align="center" style="display: block; margin: 0 auto; padding: 0 0;" width="720" height="390"}](https://commons.wikimedia.org/wiki/File:Lake_Suwa,_Nagano_Prefecture;_May_2019_(02).jpg)
-
-::: {#me style="margin: 0 auto; font-family: \"UD デジタル 教科書体 N-R\": padding-top: 0;"}
+::: {#me style="margin: 0 auto; font-family: \"UD デジタル 教科書体 N-R\": padding-top: 0 px;"}
 社会学、人種・エスニシティ論を専門とする研究者、有賀ゆうアニースのウェブサイトです。 私の研究のプロジェクトや成果、雑記などをまとめています。
 
 This is a website of Yu-Anis Aruga (有賀 ゆうアニース), Research Fellow at Osaka Metropolitan University, Japan. My main research interest is in how various cultural, ethnic and racial boundaries work and are organised and how they relate to social inequalities in contemporary Japan.
-:::
 
 ::: callout-note
-## メニュー
+## メニュー Menu
 
--   どんな人？: [About](https://yaaruga.github.io/hp/about.html)
--   これまでの研究業績: [Works](https://yaaruga.github.io/hp/work.html)
--   現在の研究プロジェクト: [Projects](https://yaaruga.github.io/hp/project.html)
--   連絡先: [Contact](https://yaaruga.github.io/hp/contact.html)
--   ブログ: [Blog](https://yaaruga.github.io/hp/blog.html)
+-   どんな人？ Who?: [About](https://yaaruga.github.io/hp/about.html)
+-   これまでの研究業績 Academic works: [Works](https://yaaruga.github.io/hp/work.html)
+-   現在の研究プロジェクト Research projects: [Projects](https://yaaruga.github.io/hp/project.html)
+-   連絡先 How to contact: [Contact](https://yaaruga.github.io/hp/contact.html)
+-   ブログ Some notes: [Blog](https://yaaruga.github.io/hp/blog.html)
+-   CV: In prepartion...
+:::
 :::
 
-[Image: Lake Suwa, Nagano Prefecture, Japan, 25 May 2019 (Sei F, CC BY-SA 2.0, via Wikimedia Commons)]{style="font-size: smaller;"}
+[Image: Lake Suwa, Nagano Prefecture, Japan, 25 May 2019 ([Sei F, CC BY-SA 2.0, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lake_Suwa,_Nagano_Prefecture;_May_2019_(01).jpg))]{style="font-size: smaller;"}
