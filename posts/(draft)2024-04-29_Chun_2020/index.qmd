@@ -2,7 +2,7 @@
 title: "【文献】Chung (2020)「東アジア民主主義諸国における移民編入」"
 author: "yaaruga"
 date: "2024-04-29"
-categories: [Imput, Teaching, Immigrant, Ethnicity/Race, Quotes]
+categories: [Input, Teaching, Immigrant, Ethnicity/Race, Quotes]
 draft: true
 ---
 **Chung, Erin Aeran. 2020. *Immigrant Incorporation in East Asian Democracies*. Cambridge: Cambridge University Press.**

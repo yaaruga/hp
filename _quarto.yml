@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
   title: "Yu-Anis Aruga"
   site-url: "https://yaaruga.github.io/hp/"
@@ -48,4 +48,3 @@ format:
     css: css/style.css
 
 editor: source
-

@@ -2,7 +2,7 @@
 title: "【文献】Joppke (1998) 「国民国家を問い直す移民」"
 author: "yaaruga"
 date: "2024-04-16"
-categories: [Imput, Teaching, Immigrant, Ethnicity/Race, Quotes]
+categories: [Input, Teaching, Immigrant, Ethnicity/Race, Quotes]
 ---
 **Joppke, Christian. 1998. “Immigration Challenges the Nation‐State.” Pp. 5–47 in *Challenge to the Nation-State: Immigration in Western Europe and the United States*, edited by C. Joppke. New York: Oxford University Press.**
 

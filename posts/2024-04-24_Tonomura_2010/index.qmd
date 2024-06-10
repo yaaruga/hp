@@ -2,7 +2,7 @@
 title: "【文献】外村大（2010）「朝鮮人労務動員をめぐる認識・矛盾・対応」"
 author: "yaaruga"
 date: "2024-04-24"
-categories: [Imput, Immigrant, Ethnicity/Race, Teaching, Korean]
+categories: [Input, Immigrant, Ethnicity/Race, Teaching, Korean]
 ---
 **外村大，2010，「朝鮮人労務動員をめぐる認識・矛盾・対応――一九三七～一九四五年」黒川みどり編著『近代日本の「他者」と向き合う』部落解放・人権研究所，200–226．**
 

@@ -2,7 +2,7 @@
 title: "【文献】Morehouse et al.(2023)「人類の社会集団はすべて人間的であるが、より人間的な集団もある」"
 author: "yaaruga"
 date: "2024-04-24"
-categories: [Imput, Teaching, Ethnicity/Race]
+categories: [Input, Teaching, Ethnicity/Race]
 ---
 **Morehouse, Kirsten N., Keith Maddox, and Mahzarin R. Banaji. 2023. “All Human Social Groups Are Human, but Some Are More Human than Others: A Comprehensive Investigation of the Implicit Association of ‘Human’ to US Racial/Ethnic Groups.” *Proceedings of the National Academy of Sciences* 120(22):e2300995120.**
 
