@@ -18,7 +18,7 @@ This is a website of Yu-Anis Aruga (有賀 ゆうアニース), Research Fellow 
 
 -   どんな人？ Who?: [About](https://yaaruga.github.io/hp/about.html)
 -   これまでの研究業績 Academic works: [Works](https://yaaruga.github.io/hp/work.html)
--   現在の研究プロジェクト Research projects: [Projects](https://yaaruga.github.io/hp/project.html)
+-   現在の研究プロジェクト Ongoing projects: [Projects](https://yaaruga.github.io/hp/project.html)
 -   連絡先 How to contact: [Contact](https://yaaruga.github.io/hp/contact.html)
 -   ブログ Some notes: [Blog](https://yaaruga.github.io/hp/blog.html)
 -   CV: In prepartion...
