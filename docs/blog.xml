@@ -40,6 +40,28 @@
   <pubDate>Tue, 11 Jun 2024 15:00:00 GMT</pubDate>
 </item>
 <item>
+  <title></title>
+  <dc:creator>yaaruga </dc:creator>
+  <link>https://yaaruga.github.io/hp/posts/2024-05-10_Presentations_and_Documents/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Misc</category>
+  <category>R</category>
+  <guid>https://yaaruga.github.io/hp/posts/2024-05-10_Presentations_and_Documents/</guid>
+  <pubDate>Tue, 04 Jun 2024 15:00:00 GMT</pubDate>
+</item>
+<item>
+  <title></title>
+  <dc:creator>yaaruga </dc:creator>
+  <link>https://yaaruga.github.io/hp/posts/(draft)2024-04-24_Bail_2021/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Imput</category>
+  <category>Social media</category>
+  <category>Teaching</category>
+  <category>Media</category>
+  <guid>https://yaaruga.github.io/hp/posts/(draft)2024-04-24_Bail_2021/</guid>
+  <pubDate>Sat, 01 Jun 2024 15:00:00 GMT</pubDate>
+</item>
+<item>
   <title>【文献】Frassl et al. (2018) 「共著論文を共同執筆するための簡単な10のルール」</title>
   <dc:creator>yaaruga </dc:creator>
   <link>https://yaaruga.github.io/hp/posts/2024-05-24_Frassl_2018/</link>
@@ -259,6 +281,33 @@ Frassl, Marieke A., David P. Hamilton, Blaize A. Denfeld, Elvira De Eyto, Stepha
   <pubDate>Tue, 21 May 2024 15:00:00 GMT</pubDate>
 </item>
 <item>
+  <title></title>
+  <dc:creator>yaaruga </dc:creator>
+  <link>https://yaaruga.github.io/hp/posts/2024-05-20_Josei_Joho/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Media</category>
+  <guid>https://yaaruga.github.io/hp/posts/2024-05-20_Josei_Joho/</guid>
+  <pubDate>Sun, 19 May 2024 15:00:00 GMT</pubDate>
+</item>
+<item>
+  <title></title>
+  <dc:creator>yaaruga </dc:creator>
+  <link>https://yaaruga.github.io/hp/posts/2024-05-20_Reading_Tips/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Misc</category>
+  <guid>https://yaaruga.github.io/hp/posts/2024-05-20_Reading_Tips/</guid>
+  <pubDate>Sun, 19 May 2024 15:00:00 GMT</pubDate>
+</item>
+<item>
+  <title></title>
+  <dc:creator>yaaruga </dc:creator>
+  <link>https://yaaruga.github.io/hp/posts/(draft)2024-05-01_lit_review_content_analysis/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Output</category>
+  <guid>https://yaaruga.github.io/hp/posts/(draft)2024-05-01_lit_review_content_analysis/</guid>
+  <pubDate>Tue, 30 Apr 2024 15:00:00 GMT</pubDate>
+</item>
+<item>
   <title>博論本の進捗報告会を開催します</title>
   <dc:creator>yaaruga </dc:creator>
   <link>https://yaaruga.github.io/hp/posts/2024-05-01_Ph.d_book/</link>
@@ -277,6 +326,19 @@ Frassl, Marieke A., David P. Hamilton, Blaize A. Denfeld, Elvira De Eyto, Stepha
   <category>Output</category>
   <guid>https://yaaruga.github.io/hp/posts/2024-05-01_Ph.d_book/</guid>
   <pubDate>Tue, 30 Apr 2024 15:00:00 GMT</pubDate>
+</item>
+<item>
+  <title></title>
+  <dc:creator>yaaruga </dc:creator>
+  <link>https://yaaruga.github.io/hp/posts/(draft)2024-04-29_Chun_2020/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Input</category>
+  <category>Teaching</category>
+  <category>Immigrant</category>
+  <category>Ethnicity/Race</category>
+  <category>Quotes</category>
+  <guid>https://yaaruga.github.io/hp/posts/(draft)2024-04-29_Chun_2020/</guid>
+  <pubDate>Sun, 28 Apr 2024 15:00:00 GMT</pubDate>
 </item>
 <item>
   <title>【文献】外村大（2011）「ポスト植民地主義と在日朝鮮人」</title>
@@ -821,102 +883,13 @@ Woo, Yujin. 2022. <span>“Homogenous <span>Japan</span>? <span>An Empirical Exa
   <pubDate>Mon, 15 Apr 2024 15:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>ど素人がGitHubとQuartoとR Markdownで研究者用のウェブサイトをつくってみる</title>
+  <title></title>
   <dc:creator>yaaruga </dc:creator>
-  <link>https://yaaruga.github.io/hp/posts/2024-04-13_creating_websites/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>このサイトはGitHubとQuartoとR Markdownを使ってつくっていますが、有賀はプログラミングの専門家ではなく、これらのツールに関する知識はほとんどありません（Rも初歩的な機能しか使っていません）。</p>
-<p>もちろんウェブサイトを作成する手段として様々なものがあります。なかにはGoogleサイトやWordPressなどのように、認知的・金銭的資源をほとんど使わずに利用できるものもあります。 ただ長期的に見ればあるていど再現性が高く、万一会社側がサービスを変えたりしても運用を継続できるような手段を用いるのが望ましいとは一般にいえるでしょう。</p>
-<p>でもカネもスキルもないのにそんな都合のいいサービスがあるのか…というのを考えて調べているうちに見つけたのがQuartoというオープンソースの科学/技術出版システムです。詳細は<a href="https://www.jaysong.net/RBook/quarto.html">こちら</a>を参照してください。</p>
-<p>これについてはすでに公式サイトも含めて豊富な紹介があるのですが、私の場合は以下のような手順で作成しています。色々調べる時間も込みで、だいたい20時間ぐらいかけましたが、要領の良い人ならもちろんもっと素早くできると思います。同じようなニーズのある人がいれば参考になさってください。</p>
-<ul>
-<li>下準備をする
-<ul>
-<li>まずGitHubのアカウントをつくります。<a href="https://qiita.com/ayatokura/items/9eabb7ae20752e6dc79d">これ</a>も参照のこと。</li>
-<li>またRとR Studioをダウンロードします。矢内先生の<a href="https://yukiyanai.github.io/jp/resources/">案内</a>が大変参考になります。</li>
-</ul></li>
-<li>ウェブサイトの雛形をつくる
-<ul>
-<li>こちらの<a href="https://youtu.be/YN75YXaLFGM?si=ApckpqPRTCe3mbSE">動画</a>の指示にしたがってQuartoのダウンロード、R Studio上でのプロジェクトの作成、プロジェクトとGitHubアカウントの連携を行います。</li>
-<li>私は唯一認証設定のところでエラーが出てつまずきました。同じケースの方はこの<a href="https://qiita.com/NumLock7019/items/c867e01c5451dc7d06e3">ポスト</a>を参考にしてみてください。</li>
-</ul></li>
-<li>ウェブサイトの体裁を整える
-<ul>
-<li><a href="https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/">このポスト</a>のステップIII以下 を参考に、ブログを追加します。</li>
-<li><a href="https://www.jaysong.net/RBook/quarto.html">矢内先生と宋先生のガイド</a>、<a href="https://shohei-doi.github.io/academic-website/">土井先生のガイド</a>、また<a href="https://quarto.org/docs/websites/">Quartoの公式サイト</a>を参考に中身や体裁を自分好みに設計します。</li>
-</ul></li>
-<li>サイトを更新する
-<ul>
-<li><a href="https://zakino-engineer.hatenablog.com/entry/2022/10/22/234329">GitHubのPersonal Access Tokenが期限切れした場合、適宜対処する必要があります。</a></li>
-</ul></li>
-</ul>
-
-
-
- ]]></description>
-  <category>R</category>
-  <category>Tips</category>
-  <guid>https://yaaruga.github.io/hp/posts/2024-04-13_creating_websites/</guid>
+  <link>https://yaaruga.github.io/hp/posts/(draft)2024-04-13_Massey_2007/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Imput</category>
+  <guid>https://yaaruga.github.io/hp/posts/(draft)2024-04-13_Massey_2007/</guid>
   <pubDate>Wed, 10 Apr 2024 15:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>2021年度日本学術振興会特別研究員DC2（社会学専門分野）の申請書を公開します</title>
-  <dc:creator>yaaruga </dc:creator>
-  <link>https://yaaruga.github.io/hp/posts/2024-04-11_DC2/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>有賀は2021年に、2022年度日本学術振興会特別研究員DC2（社会学専門分野）に採用されました。研究題目は「「混血児問題」の歴史社会学:戦後日本における多人種性をめぐる実践と経験」です。</p>
-<p>DC1では1回、DC2では1回それぞれ落第した経験をへての採用なので、戦歴としてはボロボロです。 ただ3年目になると流石に自分でもノウハウを蓄積できたこともあり、最初に比べると大幅に水準が向上し、なんとか合格することができました。</p>
-<p>最近はありがたいことに、申請書の閲覧を希望する方から連絡を受けるようにもなってきました。せっかくなので、より広く社会学専門分野でDCを目指している人の役に立ったらと思い、申請書を公開することにしました。</p>
-<p><a href="https://drive.google.com/file/d/16YQ9Z4jfpyWKrZbMLGjk1gN1aKNvBwzv/view?usp=sharing">2022年度日本学術振興会特別研究員DC2申請書</a></p>
-<p>申請書の書き方のノウハウについてはすでにネット上の記事や書籍でかなり広くまとめられているので、付け加えることはありません。経験則として強調したいのは、早く・何度も書くこと、そして何度も添削してもらうことです。私自身、先輩方の手厚い添削がなければ合格は間違いなく実現していませんでしたし、「こうすれば自分の研究内容の要点が伝わるのか」という勘所がつかめるようになったのは、大きな収穫でした。</p>
-<p>いま読みなおすとかなり荒削りですし、どこまで・だれの役に立つかもわかりませんが、広い意味でのエスニックマイノリティの研究をしてる社会学分野の人、マイノリティ集団の歴史を研究してる社会学分野の人にはもしかすると何か示唆が得られるかもしれません。</p>
-<p>2024-04-24 追記</p>
-<p>過去のブックマークを漁っていたら、松浦優さん（九州大学）の<a href="https://twitter.com/wrmtw/status/1642919786756849670">ポスト</a>でいくつか他の社会学系のDCのtipsや申請書類のエントリがまとめられていたので、以下に列挙します。</p>
-<ul>
-<li><p><a href="https://terukisanada.com/dc2/">学振DC2（社会学）の採用内定をいただいて　申請書の書き方など</a></p></li>
-<li><p><a href="https://researchmap.jp/blogs/blog_entries/view/546680/1788632a3f055cdaa3af67db687c67c2?frame_id=1074457">「学振DC1採用内定獲得に至るまで（雑感）」</a></p></li>
-<li><p><a href="https://note.com/h_keisuke/n/n8332d72b7308">「DC1学振申請書の書き方・コツ・対策（社会科学の補欠繰上合格）」</a></p></li>
-<li><p><a href="https://ryotamugiyama.com/blog/2017-02-20-gakushinDC.html">「学振DC（社会科学）の申請書を公開します」</a></p></li>
-<li><p><a href="https://tsukasatanihara.hatenablog.com/entry/2019/04/05/133403">「学振申請書（文系）の書き方（の一例）」</a></p></li>
-</ul>
-
-
-
- ]]></description>
-  <category>Tips</category>
-  <category>Grant</category>
-  <guid>https://yaaruga.github.io/hp/posts/2024-04-11_DC2/</guid>
-  <pubDate>Wed, 10 Apr 2024 15:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>このサイトの開設の経緯</title>
-  <dc:creator>yaaruga </dc:creator>
-  <link>https://yaaruga.github.io/hp/posts/2024-04-10_front_matter/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>2024年3月をもって大学院博士課程を修了して自分の経歴に一区切りがついたこと、今後のキャリアの展開のためにはパーソナル・ウェブサイトの運営はほぼ必須になっていることを踏まえて、2024年4月に研究者としての自分のサイトを開設しました。</p>
-<p>このブログでは、主に、研究活動上の雑考、分野を同じくする他の研究者への（役に立つ保証のまったくない）tipsやノウハウを提供する記事を投稿していく予定です。</p>
-
-
-
- ]]></description>
-  <category>Misc</category>
-  <guid>https://yaaruga.github.io/hp/posts/2024-04-10_front_matter/</guid>
-  <pubDate>Tue, 09 Apr 2024 15:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
