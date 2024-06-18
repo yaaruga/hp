@@ -4,7 +4,7 @@ date: "2024-06-18"
 categories: [Imput, Teaching, Immigrant, Methodology]
 ---
 
-**Bloemraad, Irene, Victoria M. Esses, Will Kymlicka, and Yang-Yang Zhou. 2023. “Unpacking Immigrant Integration: Concepts, Mechanisms, and Context.” Pp. 1–29 in *World Development Report 2023: Migrants, Refugees, and Societies*, edited by World Bank. Washington, D.C.: World Bank.**
+Bloemraad, Irene, Victoria M. Esses, Will Kymlicka, and Yang-Yang Zhou. 2023. “Unpacking Immigrant Integration: Concepts, Mechanisms, and Context.” Pp. 1–29 in *World Development Report 2023: Migrants, Refugees, and Societies*, edited by World Bank. Washington, D.C.: World Bank.
 
 世界銀行の年次報告書に掲載された移民統合政策の概論というだけあって、社会学、心理学、政治理論、政治科学のそれぞれを代表する超豪華な執筆陣。そして内容も凄まじく勉強になる大変良い論文。
 
@@ -27,7 +27,7 @@ categories: [Imput, Teaching, Immigrant, Methodology]
 ## Misdiagnosis: Cultural distance is not a self-evident problem 4-
 
 ::: callout-important
-**文化的距離を客観的で固定的な現実とみなすことは反移民感情を分析するにあたって不正確かつ不十分である。**
+文化的距離を客観的で固定的な現実とみなすことは反移民感情を分析するにあたって不正確かつ不十分である。
 :::
 
 ### Erroneous remedies when cultural distance is viewed as objective reality 4-
@@ -41,11 +41,11 @@ categories: [Imput, Teaching, Immigrant, Methodology]
 
 ### “Cultural distance” is historically variable and politically constructed 5-
 
-**文化的距離は歴史的に可変的かつ政治的に構築されている。**
+文化的距離は歴史的に可変的かつ政治的に構築されている。
 
 > 移民グループが移民先社会と似ていると見なす基準、あるいは異なると見なす基準は、原理的にさまざまであり、どの基準を選ぶかによって、同じグループでも非常に近いと見なすことも、非常に遠いと見なすこともできる。...受け入れ社会は、文化的距離を判断する基準を変えることができるし、実際に変えているのであり、それによってどのグループを近いと見るか、遠いと見るかも変えているのである。（5）
 
--    宗教、国籍、出身国、言語、人種などによって複合的に文化的距離は形成される。
+-   宗教、国籍、出身国、言語、人種などによって複合的に文化的距離は形成される。
 -   20世紀前半までのアメリカをはじめとする入植者植民地国家はいずれもプロテスタントを主流として形成された
     -   しかし20世紀後半をつうじてかれらは主流社会の成員とされるようになった（Waters 1990）
     -   こうした変化は黒人の大移動や公民権獲得といった動向のなかで人種的距離がより重要視され、相対的に白人内部の結束が高まったことに起因していた（Fouka et al. 2022）
@@ -55,7 +55,7 @@ categories: [Imput, Teaching, Immigrant, Methodology]
 ## Unpacking prevalent concepts and measures of immigrant integration 7-
 
 ::: callout-important
-**同化による統合というアプローチにいかなる限界があるのか、それがより多次元的かつ文化的差異に受容的な統合のモデルにどのように移行しつつあるのか。**
+同化による統合というアプローチにいかなる限界があるのか、それがより多次元的かつ文化的差異に受容的な統合のモデルにどのように移行しつつあるのか。
 :::
 
 > 文化的距離が客観的な事実であり、客観的な問題であるという考え方は、分析的に間違っているだけでなく、「統合」とは何かという理解を歪めている。文化的距離が客観的な問題であると仮定するならば、統合を成功させるには移民の文化的距離をなくすこと、つまり同化が必要であるように思われる。実際、過去150年間、移民の統合を考える際には、主流への適合かメルティング・ポット（人種のるつぼ）的な同質性といった同化の考え方が支配的であった。（7）
@@ -105,7 +105,7 @@ categories: [Imput, Teaching, Immigrant, Methodology]
 ## Rethinking difference and inclusion 12-
 
 ::: callout-important
-**固定的で客観的な文化的距離という仮定を離れるために(1) 境界策定 boundary work、および (2) 勾配的成員性** gradient membership **の視点を導入する。これらは、社会文化的次元における反移民感情の普及と移民の包摂の障害をよりよく理解するための代替的な概念的枠組を提供する。**
+固定的で客観的な文化的距離という仮定を離れるために(1) 境界策定 boundary work、および (2) 勾配的成員性 gradient membership の視点を導入する。これらは、社会文化的次元における反移民感情の普及と移民の包摂の障害をよりよく理解するための代替的な概念的枠組を提供する。
 :::
 
 ### Outsiders, insiders, and boundary-making projects 12-
@@ -123,7 +123,7 @@ categories: [Imput, Teaching, Immigrant, Methodology]
 
 ### Gradient membership 13-
 
-**境界策定の視点をとることで、成員性を多元的で連続的で相対的な状態として理解することができる。**
+境界策定の視点をとることで、成員性を多元的で連続的で相対的な状態として理解することができる。
 
 -   人々の成員資格は内部と外部の二分法に還元されるものではなく、むしろ他の集団や特定の理念型との比較において構成される（Bloemraad 2018, 2022）
 
@@ -215,7 +215,7 @@ categories: [Imput, Teaching, Immigrant, Methodology]
 ### Enabling migrant political agency and voice 17-
 
 ::: callout-important
-**移民の政治的統合はシティズンシップ・シティズンシップ政策によって強く規定される。移民の政治的主体性と要求の機会を担保することが受け入れの文脈を形成し社会的包摂を促す。**
+移民の政治的統合はシティズンシップ・シティズンシップ政策によって強く規定される。移民の政治的主体性と要求の機会を担保することが受け入れの文脈を形成し社会的包摂を促す。
 :::
 
 -   移民は歴史的に文化・経済的同化を受け入れ社会によって強く要求／推進されてきた一方、政治的統合は強く制限されてきた（17）
