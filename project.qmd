@@ -1,8 +1,6 @@
 ---
 title: "研究プロジェクト Projects"
-toc: true
-toc-location: body
-toc-title: "現在進行中のプロジェクト"
+toc: false
 title-block-banner: false
 about:
   id: me
