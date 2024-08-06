@@ -10,13 +10,13 @@ toc-title: "戦後日本における「混血児問題」に関する調査"
 
 こうした子どもたちは当時「混血児」と呼ばれ、さまざまな社会生活上の不利を経験してきたことが知られています。最近はこうした人々に焦点を当てたドキュメンタリー番組や書籍も登場し、彼らがそのバックグラウンドに関連してどのような経験をしてきたのかにも注目が集まっています。
 
-::: {layout-ncol="2" style="font-size: 80%; text-align: center; line-height: 1.2;"}
-!["The Week's Best Photo", *Jet* Sep 16, 1954\
-黒人兵士と日本人女性を親にもつ女児を養子にした日本人夫婦の写真](img/1954-09-16_Jet.png){fig-align="center" width="289"}
 
-!["Japan's Rejected", *Ebony*, Sep 22, 1967\
-日本に暮らす黒人系混血児を特集したアメリカの黒人系雑誌 *Ebony* の表紙](img/1967-09-01_Ebony.png){fig-align="center" width="289"}
+::: {layout-ncol="2" style="font-size: 70%; line-height:1.0"}
+{{< video https://youtu.be/KYngbLetPT0?si=PHQ16rwqdeUbAzPQ title='【差別と偏見のはざまで】戦争が生んだ子どもたち　' >}}
+
+{{< video https://youtu.be/UUQ5bZtk6s4?si=PnKcoTI6Z0sUTejq title='映画「Yokosuka1953」予告編 ' >}}
 :::
+
 
 しかし、こうした人びとが実際にその人生や日常生活のなかで自らの人種的な背景に関係してどのような経験をしてきたのか、また彼らの経験に周囲の組織（政府、学校、児童福祉施設など）や家族がどう関与してきたのかということは、いまだに十分に明らかにされているとは言い難い現状が続いています。
 
