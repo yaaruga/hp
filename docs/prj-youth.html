@@ -75,6 +75,9 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-23K2TX0WXL', { 'anonymize_ip': true});
 </script>
+<script src="site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="css/style.css">
@@ -269,14 +272,38 @@ gtag('config', 'G-23K2TX0WXL', { 'anonymize_ip': true});
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li>事前に基本的な情報に関するアンケート（10~15分程度で回答いただけます）に回答いただいた後に、<u>１〜２時間程度のインタビュー</u>をご依頼します。</li>
-<li><u>インタビューは対面、もしくはオンラインのどちらかで実施します</u>。</li>
-<li><u>答えたくない質問に答える必要はありません</u>。また、途中でインタビューをやめたくなった場合は、いつでもやめることができます。</li>
-<li><u>アンケートやインタビューの内容はプライバシー保護のため匿名化されます</u>。内容が研究目的以外で用いられることはありません。</li>
+<li>事前に基本的な情報に関するアンケート（10分程度で回答いただけます）に回答いただいた後に、<u>１〜２時間程度のインタビュー</u>をご依頼します。</li>
+<li><u>インタビューは対面、もしくはオンラインのどちらかで実施します</u>。調査担当者がいずれも関東圏に南関東に居住しているため、遠方の場合はオンラインをお願いすることがあります。</li>
+<li><u>答えたくない質問に答える必要はありません</u>。途中でインタビューをやめたくなった場合は、いつでもやめることができます。一度話してしまったけれど記録してほしくない（オフレコにしてほしい）場合も、対応することができます。</li>
+<li><u>アンケートやインタビューの内容はプライバシー保護のため匿名化されます</u>。内容が研究目的以外で用いられることはなく、パスワードつきのハードディスク上で厳重に管理されます。</li>
 <li>研究成果は、学会発表、論文、書籍などの形で公表されます。希望する方には、研究成果が出た際に、メールやメッセージで共有します。</li>
 <li>調査に参加していただいた後には、謝礼として、<u>アルバイトの給料程度のギフトカード</u>をお渡しします。謝礼をお渡しする際には、同意書への署名をお願いしております。</li>
 <li>このプロジェクトは、独立行政法人日本学術振興会の研究助成（<a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24KJ0187/">課題番号 24KJ0187</a>）、ならびに大阪公立大学経済学研究科の研究倫理審査委員会による承認を受けています。</li>
 </ul>
+</div>
+</div>
+<p>調査への参加の流れは以下の図の通りです。</p>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">sequenceDiagram
+  autonumber
+  actor 調査者
+  actor 参加者
+  調査者 -&gt;&gt; 参加者: 調査の趣旨を説明し、参加を募集・ご依頼します
+  参加者 -&gt;&gt; 調査者: 調査の趣旨を確認し、参加するかどうかを検討していただきます
+  調査者 -&gt;&gt; 参加者: （協力いただける場合）アンケートをお送りし、日程を調整します
+  参加者 -&gt;&gt; 調査者: 10~15分程度のアンケートに回答していただきます
+  調査者 -&gt;&gt; 参加者: ご回答を参照しながら、1-2時間のインタビューをさせていただきます
+  参加者 -&gt;&gt; 調査者: 説明書を確認し、同意欄に署名していただきます
+  調査者 -&gt;&gt; 参加者: 署名を確認し、謝礼をお支払いします
+  Note over 調査者, 参加者: 完了！（※希望者には、文字起こしや成果物を後日お送りします）
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
 </div>
 </div>
 </section>
