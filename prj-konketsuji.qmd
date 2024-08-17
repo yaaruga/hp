@@ -1,6 +1,8 @@
 ---
 title: "戦後日本における「混血児問題」に関する調査"
-toc: false
+toc: true
+toc-location: body
+toc-title: メニュー
 ---
 
 ## プロジェクトの趣旨
