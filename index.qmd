@@ -24,7 +24,7 @@ This is a website of Yu-Anis Aruga (有賀 ゆうアニース), Research Fellow 
 -   現在の研究プロジェクト Ongoing projects: [Projects](project.qmd)
 -   連絡先 How to contact: [Contact](contact.qmd)
 -   ブログ Some notes: [Blog](blog.qmd)
--   CV: In prepartion...
+-   CV: In prepartion
 :::
 :::
 
