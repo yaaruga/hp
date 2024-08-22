@@ -1,7 +1,6 @@
 ---
 title: "外国にルーツをもつ若者の生活と意識に関する調査"
 toc: true
-toc-location: body
 toc-title: メニュ−
 ---
 
@@ -101,10 +100,10 @@ sequenceDiagram
   Note over 調査者, 参加者: 完了！（※希望者には、文字起こしや成果物を後日お送りします）
 ```
 
-### お問い合わせ・参加申し込み
+## お問い合わせ・申し込み
 
 この調査について問い合わせてみたい方、申し込みをした方は、以下の窓口からお気軽にご連絡ください。みなさまのご応募やご質問を受け付けております。
 
 ```{=html}
-<iframe src="https://forms.gle/5FESYWsoMncvhkWm9" width="900" height="600"></iframe>
+<iframe src="https://forms.gle/5FESYWsoMncvhkWm9" width="800" height="600"></iframe>
 ```
