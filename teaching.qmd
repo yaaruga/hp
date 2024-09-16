@@ -1,0 +1,23 @@
+---
+title: "Teaching"
+about:
+  id: me
+  template: marquee
+date-modified: last-modified
+date-format: "YYYY-MM-DD"
+toc-title: 目次
+---
+
+過去の教育活動の成果などをまとめています。
+
+## 2024年度
+
+［準備中］
+
+## 2023年度
+
+［準備中］
+
+## 2022年度
+
+［準備中］

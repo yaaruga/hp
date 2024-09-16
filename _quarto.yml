@@ -21,6 +21,8 @@ website:
         text: Projects
       - href: contact.qmd
         text: Contact
+      - href: teaching.qmd
+        text: Teaching
       - href: blog.qmd
         text: Blog
     tools:
