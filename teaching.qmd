@@ -8,7 +8,7 @@ date-format: "YYYY-MM-DD"
 toc-title: 目次
 ---
 
-過去の教育活動の成果などをまとめています。（準備中）
+過去の教育活動の成果などをまとめています（準備中）。詳細は[こちら](https://researchmap.jp/ya-ruga/teaching_experience)を参照ください。
 
 ## 2024年度
 
