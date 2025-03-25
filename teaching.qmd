@@ -8,4 +8,13 @@ date-format: "YYYY-MM-DD"
 toc-title: 目次
 ---
 
-過去の教育活動の成果などをまとめています（準備中）。詳細は[こちら](https://researchmap.jp/ya-ruga/teaching_experience)を参照ください。
+## 授業のための公開教材
+
+
+-  [メディア社会学・文化社会学の卒論執筆のための参考資料](thesis-culture-media.qmd)
+
+## これまでの教歴
+
+-  詳細は[こちら](https://researchmap.jp/ya-ruga/teaching_experience)を参照ください。
+
+
