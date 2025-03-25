@@ -45,13 +45,9 @@ toc-title: 目次
 3.  **受容者 Receiver**：文化的対象を使用・解釈・経験する主体
 4.  **社会的世界 Social World**：全体社会の制度・構造・文脈
 
-図式を頭に入れておくと、「いま自分がなにをやりたいのか」「自分の研究にはどんな貢献がありそうか」を整理するのに役立つ。6つの線分のどれを扱うのでもよいので、折に触れて参照するのを勧める。
+![](img/CulturalDiamond.jpg){fig-alt="文化社会学の理論モデル＝「文化のダイヤモンド」"}
 
-::: {style="position: relative; width: 100%; height: 0; padding-top: 75.0000%;  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;  border-radius: 8px; will-change: transform;"}
-<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAGe-KEWvHQ/FAr4Foq2E66pYZypgXziIA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-
-</iframe>
-:::
+この図式を頭に入れておくと、「いま自分がなにをやりたいのか」「自分の研究にはどんな貢献がありそうか」を整理するのに役立つ。6つの線分のどれを扱うのでもよいので、折に触れて参照するのを勧める。
 
 ::: {style="display: none;"}
 卒論の執筆
@@ -272,7 +268,7 @@ toc-title: 目次
 分析ツールは利用者の技能に強く依存する。学部レベルではまったく使わない（ワードとかエクセルだけでやり抜く）のでもまったく問題ないので、ここでは詳しく触れない。以下はテキストデータの量的分析のために使われる主なツールの列挙である。
 
 | ツール | 説明 |
-|--------------------------|---------------------------------------------|
+|---------------------------|---------------------------------------------|
 | R | 統計解析に特化したプログラミング言語。自然言語分析にも使われる。 |
 | Python | プログラミング言語。自然言語分析にも使われる。 |
 | [KH coder](https://khcoder.net/) | 計量テキスト分析またはテキストマイニングのためのソフト。無料プランは回数・量に制限あり。 |

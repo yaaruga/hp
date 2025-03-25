@@ -10,11 +10,12 @@ toc-title: 目次
 
 ## 授業のための公開教材
 
+授業で使っている教材のうち、一般に公開してよい、なおかつ公開しても意味があると考えられるものを不定期に作成・掲載しています。
 
 -  [メディア社会学・文化社会学の卒論執筆のための参考資料](thesis-culture-media.qmd)
 
 ## これまでの教歴
 
--  詳細は[こちら](https://researchmap.jp/ya-ruga/teaching_experience)を参照ください。
+-  [こちら](https://researchmap.jp/ya-ruga/teaching_experience)を参照ください。
 
 
