@@ -32,8 +32,6 @@ toc-title: 目次
 
 [^1]: Lindner, Andrew M. and Stephen R. Barnard, 2020, *All Media Are Social: Sociological Perspectives on Mass Media*, New York: Routledge.
 
-
-
 ## 文化社会学・メディア社会学の理論枠組
 
 社会学一般がそうであるように、文化社会学・メディア社会学にもさまざまな理論や方法があるが、とくに有力でよく参照されるものを紹介しておく。機械的に説明・応用する必要があるのではなく、むしろ自分が関心のある現象をどんな観点から取り上げられるかを考えるときに道に迷わないための指針として使うほうがよい。
@@ -132,11 +130,11 @@ end
 論文のフォーマットには色々あるが、もっともオーソドックスなのはIMRAD（Introduction, Methods, Results, and Discussion）である。図解すれば以下のようになる。
 
 ```{mermaid}
-flowchart TD
+flowchart LR
 classDef default fill:#ffffff,stroke:#000000,stroke-width:1px;
-    A[序論<br>（Introduction）<br>研究の背景・問題意識<br>研究目的や問い] --> B[方法<br>（Methods）<br>研究手法・調査対象・データの収集方法など]
-    B --> C[結果<br>（Results）<br>分析の知見や仮説の検証結果を報告]
-    C --> D[考察<br>（Discussion）<br>結果の整理と考察・限界や今後の課題]
+    A["序論<br>（Introduction）<br>研究の背景・問題意識<br>研究目的や問い"] --> B["方法<br>（Methods）<br>調査対象<br>データの収集・分析方法"]
+    B --> C["結果<br>（Results）<br>分析の知見や仮説の検証結果を報告"]
+    C --> D["考察<br>（Discussion）<br>結果の整理と考察・限界や今後の課題"]
 
     A:::intro
     B:::method
@@ -359,7 +357,7 @@ classDef default fill:#ffffff,stroke:#000000,stroke-width:1px;
 | [R](https://www.r-project.org/) | 統計解析に特化したプログラミング言語。自然言語分析にも使われる。 |
 | [Python](https://www.python.jp/) | プログラミング言語。自然言語分析にも使われる。 |
 | [KH coder](https://khcoder.net/) | 計量テキスト分析またはテキストマイニングのためのソフト。無料プランは回数・量に制限あり。 |
-| [AIテキストマイニング](https://textmining.userlocal.jp/after_coding2/solutions) | ユーザーローカル社が提供する生成AIによるテキストマイニングツール。登録すれば無料で使える（回数・量に制限あり）。 |
+| [AIテキストマイニング](https://textmining.userlocal.jp/after_coding2/solutions) | ユーザーローカル社が提供する生成AIによるテキストマイニングツール。登録すれば無料で使える（回数・量に制限あり）。「新規作成」から一般的なテキスト分析をするのもありだし、「AIアフターコーディングツール 高機能版」でAIによるアフターコーディングを行うのもあり。 |
 
 : テキスト分析の主なツール
 
