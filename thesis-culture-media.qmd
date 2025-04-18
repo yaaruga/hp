@@ -127,7 +127,7 @@ end
 4.  3が多少ともできたら、信用できる相手にシェアし、全体的なストーリーを（願望・妄想こみでいいので）説明してみる
 5.  4で受け取ったコメントを参考にアウトラインを作り直したり整備したり本文執筆に進んだりする
 
-論文のフォーマットには色々あるが、もっともオーソドックスなのはIMRAD（Introduction, Methods, Results, and Discussion）である。図解すれば以下のようになる。
+論文のフォーマットには色々あるが、もっともオーソドックスなのは[IMRAD（Introduction, Methods, Results, and Discussion）](https://ja.wikipedia.org/wiki/IMRAD)と呼ばれるものである。図解すれば以下のようになる。
 
 ```{mermaid}
 flowchart LR
@@ -259,6 +259,8 @@ classDef default fill:#ffffff,stroke:#000000,stroke-width:1px;
 
 ### ジャーナル
 
+メディア研究の論文が載るジャーナルといえば結構あるが、メディア研究が主要に掲載されるかつ日本語で読めるものは限られている。以下にいくつか挙げておく。
+
 -   『放送研究と調査』
 -   『メディア研究』
 
@@ -363,6 +365,12 @@ classDef default fill:#ffffff,stroke:#000000,stroke-width:1px;
 | [AIテキストマイニング](https://textmining.userlocal.jp/after_coding2/solutions) | ユーザーローカル社が提供する生成AIによるテキストマイニングツール。登録すれば無料で使える（回数・量に制限あり）。「新規作成」から一般的なテキスト分析をするのもありだし、「AIアフターコーディングツール 高機能版」でAIによるアフターコーディングを行うのもあり。 |
 
 : テキスト分析の主なツール
+
+## AIを有効活用しよう
+
+1. 文献検索
+2. 翻訳
+3. 分析
 
 ## 研究事例と研究デザイン
 
