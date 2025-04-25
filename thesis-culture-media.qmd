@@ -395,11 +395,14 @@ classDef default fill:#ffffff,stroke:#000000,stroke-width:1px;
 
 3.  分析
 
--   ：ユーザーローカル[「AIテキストマイニング」](https://textmining.userlocal.jp/after_coding2/solutions)
+-   参考：ユーザーローカル[「AIテキストマイニング」](https://textmining.userlocal.jp/after_coding2/solutions)
 
 4.  執筆
 
 -   参考：ユーザーローカル[「文章校正AI」](https://ai-tool.userlocal.jp/proofreading)
+
+5.  文献要約
+    -   参考：[Google NotebookLM](https://notebooklm.google.com/)
 
 ## 研究事例と研究デザイン
 
