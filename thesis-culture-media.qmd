@@ -125,7 +125,7 @@ end
 ```{mermaid}
 flowchart LR
 classDef default fill:#ffffff,stroke:#000000,stroke-width:1px;
-    A["序論<br>（Introduction）<br>研究の背景・問題意識<br>研究目的や問い"] --> B["方法<br>（Methods）<br>調査対象<br>データの収集・分析方法"]
+    A["序論<br>（Introduction）<br>研究の背景・先行研究br>研究目的や問い"] --> B["方法<br>（Methods）<br>調査対象<br>データの収集・分析方法"]
     B --> C["結果<br>（Results）<br>分析の知見や仮説の検証結果を報告"]
     C --> D["考察<br>（Discussion）<br>結果の整理と考察・限界や今後の課題"]
 
