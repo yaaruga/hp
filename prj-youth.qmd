@@ -31,11 +31,11 @@ toc-title: メニュ−
 ::: callout-note
 ## 調査担当者
 
-有賀 ゆうアニース Yu-Anis ARUGA（大阪公立大学特別研究員, 早稲田大学ほか兼任講師）\
+有賀 ゆうアニース Yu-Anis ARUGA（大阪公立大学経済学研究科特別研究員, 早稲田大学ほか兼任講師）\
 アドレス: yaarugannw \[at\] gmail.com\
 プロフィール: <https://yaaruga.github.io/hp/about.html>\
 \
-佐藤 祐菜 Yuna SATO（慶應義塾大学大学院博士後期課程, 立教大学ほか兼任講師）\
+佐藤 祐菜 Yuna SATO（東京大学社会科学研究所特任研究員, 立教大学ほか兼任講師）\
 アドレス: yunasato\[at\]95keio.jp\
 プロフィール: <https://researchmap.jp/yun_sato>
 :::
