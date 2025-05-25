@@ -1,7 +1,7 @@
 ---
 title: "【試験版】社会科学系の初年次教育で学生に紹介するおすすめのジャーナル"
-date: "2024-05-22"
-categories: [Tips, Teaching]
+date-modified: last-modified
+date-format: "YYYY-MM-DD"
 ---
 
 # 背景と目的
