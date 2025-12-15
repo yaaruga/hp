@@ -50,5 +50,7 @@ format:
     citeproc: true
     csl: csl/american-sociological-association.csl
     css: css/style.css
+    mermaid:
+      theme: neutral
 
 editor: source
