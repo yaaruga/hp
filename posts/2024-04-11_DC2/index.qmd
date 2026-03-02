@@ -1,6 +1,5 @@
 ---
 title: "2021年度日本学術振興会特別研究員DC2（社会学専門分野）の申請書を公開します"
-author: "yaaruga"
 date: "2024-04-11"
 date-modified: "2024-04-24"
 categories: [Tips, Grant]

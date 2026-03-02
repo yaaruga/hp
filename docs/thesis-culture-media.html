@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.26">
+<meta name="generator" content="quarto-1.8.27">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,7 +36,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-1de434e965da011fb29414ce51086987.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -76,6 +76,7 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-23K2TX0WXL', { 'anonymize_ip': true});
 </script>
+<meta name="mermaid-theme" content="neutral">
 <script src="site_libs/quarto-diagram/mermaid.min.js"></script>
 <script src="site_libs/quarto-diagram/mermaid-init.js"></script>
 <link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
@@ -197,11 +198,7 @@ gtag('config', 'G-23K2TX0WXL', { 'anonymize_ip': true});
   <li><a href="#番外編" id="toc-番外編" class="nav-link" data-scroll-target="#番外編">番外編</a></li>
   </ul></li>
   <li><a href="#分析ツール" id="toc-分析ツール" class="nav-link" data-scroll-target="#分析ツール">分析ツール</a></li>
-  <li><a href="#生成aiを有効活用しよう" id="toc-生成aiを有効活用しよう" class="nav-link" data-scroll-target="#生成aiを有効活用しよう">生成AIを有効活用しよう</a>
-  <ul class="collapse">
-  <li><a href="#主な用途" id="toc-主な用途" class="nav-link" data-scroll-target="#主な用途">主な用途</a></li>
-  <li><a href="#NoticeOnAi" id="toc-NoticeOnAi" class="nav-link" data-scroll-target="#NoticeOnAi"><strong>AIツール利用上の注意点（使用する場合は必読！）</strong></a></li>
-  </ul></li>
+  <li><a href="#生成aiを有効かつ適切に活用しよう" id="toc-生成aiを有効かつ適切に活用しよう" class="nav-link" data-scroll-target="#生成aiを有効かつ適切に活用しよう">生成AIを有効かつ適切に活用しよう</a></li>
   <li><a href="#研究事例と研究デザイン" id="toc-研究事例と研究デザイン" class="nav-link" data-scroll-target="#研究事例と研究デザイン">研究事例と研究デザイン</a>
   <ul class="collapse">
   <li><a href="#表象コンテンツの内容を通時的に分析する" id="toc-表象コンテンツの内容を通時的に分析する" class="nav-link" data-scroll-target="#表象コンテンツの内容を通時的に分析する">表象・コンテンツの内容を通時的に分析する</a></li>
@@ -224,7 +221,7 @@ gtag('config', 'G-23K2TX0WXL', { 'anonymize_ip': true});
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">2025-12-04</p>
+      <p class="date-modified">2026-02-26</p>
     </div>
   </div>
   </div>
@@ -836,80 +833,9 @@ classDef default fill:#ffffff,stroke:#000000,stroke-width:1px;
 </tbody>
 </table>
 </section>
-<section id="生成aiを有効活用しよう" class="level2">
-<h2 data-anchor-id="生成aiを有効活用しよう">生成AIを有効活用しよう</h2>
-<p>日進月歩の領域であるので、すぐに役に立たなくなる可能性もあるので、最新の情報は各自で調べてほしい。使い方には倫理的・技術的・社会経済的等々の様々な問題があるのだが、もはやまったく使わないのはもったいない&amp;非効率な段階に入っているのはたしか。「使うか使わないか」というよりは「どう使うか」という段階に入っている。ただし、<strong>使用する際は後述する注意点を必ず守ること</strong>。</p>
-<section id="主な用途" class="level3">
-<h3 data-anchor-id="主な用途">主な用途</h3>
-<p><strong>卒業論文執筆におけるAIツール活用</strong></p>
-<p>以下にいくつかの生成AIの活用例を挙げておく。あくまで参考であり、実際に使う場合は自分の研究テーマやデータに合わせて柔軟にカスタマイズする必要がある。</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 33%">
-<col style="width: 33%">
-<col style="width: 33%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">機能</th>
-<th style="text-align: left;">ツール</th>
-<th style="text-align: left;">具体的な使い方</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">テーマ・問いの探求・具体化</td>
-<td style="text-align: left;">様々</td>
-<td style="text-align: left;">自身のリサーチクエスチョンを明確にするためのブレインストーミングや、多様な視点からの問いの設定を補助する。俗に言う「壁打ち」。</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">論文アウトラインの検討</td>
-<td style="text-align: left;">様々</td>
-<td style="text-align: left;">リサーチクエスチョンや収集した文献情報を基にアウトラインの提案をさせる。</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><strong>基本的な文献検索</strong></td>
-<td style="text-align: left;">Perplexity AI</td>
-<td style="text-align: left;">論文テーマに関連するキーワードや問いを入力することで、関連性の高い論文や記事、書籍などの文献情報を効率的に検索できる。出典元が明記されるため、情報の信頼性を確認しやすい。</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><strong>詳細な文献探索</strong></td>
-<td style="text-align: left;">GeminiやChatGPTのDeep Search</td>
-<td style="text-align: left;">通常の検索では見つけにくい、特定の概念に関する詳細な議論や、ニッチな研究分野の文献を探す。複数のキーワードを組み合わせた複雑なクエリにも対応し、関連性の高い情報を深掘りできる。</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><strong>外国語文献の読解</strong></td>
-<td style="text-align: left;">DeepL</td>
-<td style="text-align: left;">英語など外国語で書かれた文献を日本語に翻訳する際に使う。学術的な文章の翻訳精度が高いとされており、専門用語なども比較的正確に訳せる。ただし、翻訳結果のみに依拠せず、原文と照らし合わせながら内容を理解することが欠かせない。</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><strong>質的研究データの分析補助</strong></td>
-<td style="text-align: left;">（参考）ユーザーローカル「AIテキストマイニング」</td>
-<td style="text-align: left;">インタビューデータや質的なアンケート回答、フィールドワークのメモなどのテキストデータをAIで分析し、出現頻度の高い単語や共起表現、感情などを抽出するのに使用できる。</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><strong>文章表現の改善と誤字脱字チェック</strong></td>
-<td style="text-align: left;">（参考）ユーザーローカル「文章校正AI」</td>
-<td style="text-align: left;">執筆した文章の文法ミス、誤字脱字、不自然な表現などをチェックし、修正案を提示してくれる。ただし、内容の妥当性や論理構成は自身で責任を持つ必要がある。</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><strong>長文の要約と情報整理:</strong></td>
-<td style="text-align: left;">Google NotebookLM</td>
-<td style="text-align: left;">複数の文献や資料をアップロードし、その内容をAIに要約させることができる。情報を効率的に分類・把握・取捨選択するのに効果的。</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="NoticeOnAi" class="level3">
-<h3 data-anchor-id="NoticeOnAi"><strong>AIツール利用上の注意点（使用する場合は必読！）</strong></h3>
-<ul>
-<li>AIの出力はあくまで参考情報である。<u>情報の真偽や内容の妥当性は必ず自身で確認しなければならない</u>。論文が論文である限り、<u>書き手に責任が帰属することは避けられない</u>。</li>
-<li><u>AIが生成した文章をそのまま論文として使用することは剽窃にあたる</u>。出力結果を吟味・加工・修正する工程を省いてはならない。</li>
-<li><u>AIに機密情報や個人情報を入力してはならない</u>。調査で取得した情報もモデルにもよるが情報漏洩のリスクが大抵は付随する。データの匿名化・仮名化を徹底するか、オフラインで利用可能な分析手法との組み合わせを検討する必要がある。</li>
-<li>使用するAIツールの利用規約を確認しておくことが望ましい。</li>
-<li>生成AIをめぐる動向は目まぐるしい勢いで変化する。1, 2週間前の常識が通用しなくなるのも珍しくないので、そこは<u>各々の利用する目的や状況に応じて柔軟に検討や工夫をすることが求められる</u>。</li>
-</ul>
-</section>
+<section id="生成aiを有効かつ適切に活用しよう" class="level2">
+<h2 data-anchor-id="生成aiを有効かつ適切に活用しよう">生成AIを有効かつ適切に活用しよう</h2>
+<p>🚧準備中🚧</p>
 </section>
 <section id="研究事例と研究デザイン" class="level2">
 <h2 data-anchor-id="研究事例と研究デザイン">研究事例と研究デザイン</h2>
