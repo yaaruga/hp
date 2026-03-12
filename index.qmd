@@ -20,7 +20,7 @@ This is a website of Yu-Anis Aruga, Research Fellow at Osaka Metropolitan Univer
 ## メニュー Menu
 
 -   どんな人？: [About](about.qmd)
--   これまでの研究業績: [Works](work.qmd)
+-   これまでの研究業績: [Works](works.qmd)
 -   現在の研究プロジェクト: [Projects](project.qmd)
 -   連絡: [Contact](contact.qmd)
 -   ブログ: [Blog](blog.qmd)

@@ -8,6 +8,7 @@ listing:
   sort-ui: true
   filter-ui: true
   feed: true
+  date-format: "yyyy-mm-dd"
 ---
 
 ![](img/Miss_Van_y_Ciou.jpg){fig-align="center" style="margin-bottom: 0;" width="488"}
