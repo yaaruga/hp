@@ -8,6 +8,6 @@ date-format: "YYYY-MM-DD"
 toc-title: 目次
 ---
 
-過去の研究活動の成果は[Researchmap](https://researchmap.jp/ya-ruga)を参照してください。
+過去の研究活動の成果は[Researchmap](https://researchmap.jp/ya-ruga)をご参照ください。
 
 My research publications can be found on my page in [Researchmap](https://researchmap.jp/ya-ruga).
