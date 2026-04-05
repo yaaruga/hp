@@ -1,6 +1,5 @@
 ---
 title: "このサイトの開設の経緯"
-author: "yaaruga"
 date: "2024-04-10"
 categories: [Misc]
 ---

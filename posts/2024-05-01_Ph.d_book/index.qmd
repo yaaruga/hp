@@ -1,6 +1,5 @@
 ---
 title: "博論本の進捗報告会を開催します"
-author: "yaaruga"
 date: "2024-05-01"
 categories: [Output]
 ---

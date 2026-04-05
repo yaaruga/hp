@@ -1,6 +1,5 @@
 ---
 title: "朝日新聞の取材記事に関する補遺"
-author: "yaaruga"
 date: "2024-04-17"
 categories: [Teaching, Media]
 ---

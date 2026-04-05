@@ -2,23 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://yaaruga.github.io/hp/blog.html</loc>
-    <lastmod>2026-03-12T23:17:39.894Z</lastmod>
+    <lastmod>2026-04-05T12:11:23.360Z</lastmod>
   </url>
   <url>
-    <loc>https://yaaruga.github.io/hp/prj-youth.html</loc>
-    <lastmod>2025-12-15T07:24:04.870Z</lastmod>
+    <loc>https://yaaruga.github.io/hp/untitled.html</loc>
+    <lastmod>2025-02-04T02:40:51.046Z</lastmod>
   </url>
   <url>
-    <loc>https://yaaruga.github.io/hp/about.html</loc>
-    <lastmod>2026-03-22T01:27:03.549Z</lastmod>
+    <loc>https://yaaruga.github.io/hp/ethnic-studies.html</loc>
+    <lastmod>2025-07-30T08:11:27.583Z</lastmod>
   </url>
   <url>
-    <loc>https://yaaruga.github.io/hp/index.html</loc>
-    <lastmod>2026-03-12T23:13:27.864Z</lastmod>
-  </url>
-  <url>
-    <loc>https://yaaruga.github.io/hp/work.html</loc>
-    <lastmod>2026-03-12T23:12:45.452Z</lastmod>
+    <loc>https://yaaruga.github.io/hp/prj-konketsuji.html</loc>
+    <lastmod>2026-03-12T23:16:18.249Z</lastmod>
   </url>
   <url>
     <loc>https://yaaruga.github.io/hp/posts/2024-04-21_Ph.d_life/index.html</loc>
@@ -30,11 +26,11 @@
   </url>
   <url>
     <loc>https://yaaruga.github.io/hp/posts/2024-04-10_front_matter/index.html</loc>
-    <lastmod>2024-04-18T13:35:42.912Z</lastmod>
+    <lastmod>2026-04-05T12:09:41.731Z</lastmod>
   </url>
   <url>
     <loc>https://yaaruga.github.io/hp/posts/2024-05-01_Ph.d_book/index.html</loc>
-    <lastmod>2024-05-01T14:09:27.118Z</lastmod>
+    <lastmod>2026-04-05T12:10:14.314Z</lastmod>
   </url>
   <url>
     <loc>https://yaaruga.github.io/hp/teaching.html</loc>
@@ -46,7 +42,7 @@
   </url>
   <url>
     <loc>https://yaaruga.github.io/hp/contact.html</loc>
-    <lastmod>2024-11-10T23:09:18.277Z</lastmod>
+    <lastmod>2026-04-01T01:58:46.027Z</lastmod>
   </url>
   <url>
     <loc>https://yaaruga.github.io/hp/posts/2026-02-01_new_book/index.html</loc>
@@ -54,30 +50,42 @@
   </url>
   <url>
     <loc>https://yaaruga.github.io/hp/posts/2024-04-13_creating_websites/index.html</loc>
-    <lastmod>2024-05-26T23:50:51.804Z</lastmod>
+    <lastmod>2026-04-05T12:09:58.532Z</lastmod>
   </url>
   <url>
     <loc>https://yaaruga.github.io/hp/posts/2024-04-13_asahi_appendix/index.html</loc>
-    <lastmod>2024-06-04T13:20:39.212Z</lastmod>
+    <lastmod>2026-04-05T12:10:09.204Z</lastmod>
   </url>
   <url>
     <loc>https://yaaruga.github.io/hp/works.html</loc>
     <lastmod>2026-03-12T23:13:13.232Z</lastmod>
   </url>
   <url>
-    <loc>https://yaaruga.github.io/hp/prj-konketsuji.html</loc>
-    <lastmod>2026-03-12T23:16:18.249Z</lastmod>
+    <loc>https://yaaruga.github.io/hp/index.html</loc>
+    <lastmod>2026-03-12T23:13:27.864Z</lastmod>
   </url>
   <url>
-    <loc>https://yaaruga.github.io/hp/ethnic-studies.html</loc>
-    <lastmod>2025-07-30T08:11:27.583Z</lastmod>
+    <loc>https://yaaruga.github.io/hp/about.html</loc>
+    <lastmod>2026-04-05T12:52:57.257Z</lastmod>
   </url>
   <url>
-    <loc>https://yaaruga.github.io/hp/untitled.html</loc>
-    <lastmod>2025-02-04T02:40:51.046Z</lastmod>
+    <loc>https://yaaruga.github.io/hp/prj-youth.html</loc>
+    <lastmod>2025-12-15T07:24:04.870Z</lastmod>
   </url>
   <url>
     <loc>https://yaaruga.github.io/hp/project.html</loc>
     <lastmod>2026-03-12T23:07:12.343Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yaaruga.github.io/hp/cv.html</loc>
+    <lastmod>2026-04-05T12:33:55.591Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yaaruga.github.io/hp/cv/cv.html</loc>
+    <lastmod>2026-04-05T12:53:01.559Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yaaruga.github.io/hp/cv/template-typstcv.html</loc>
+    <lastmod>2026-04-05T12:53:01.269Z</lastmod>
   </url>
 </urlset>

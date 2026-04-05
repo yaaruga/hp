@@ -3,7 +3,6 @@ title: "Yu-Anis ARUGA 有賀 ゆうアニース"
 about:
   id: me
   template: jolla
-  image: img/portrait.jpg
   image-width: 14em
   image-alt: "portrait"
 ---

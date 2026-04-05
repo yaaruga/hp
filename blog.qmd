@@ -2,13 +2,14 @@
 title: "ブログ Blog"
 listing:
   contents: posts
-  sort: "date desc"
   type: table
   categories: true
   sort-ui: true
   filter-ui: true
+  sort: "date desc"
+  fields: [date, title]
   feed: true
-  date-format: "yyyy-mm-dd"
+  date-format: iso
 ---
 
 ![](img/Miss_Van_y_Ciou.jpg){fig-align="center" style="margin-bottom: 0;" width="488"}

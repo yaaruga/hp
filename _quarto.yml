@@ -7,7 +7,13 @@ website:
   site-url: "https://yaaruga.github.io/hp/"
   description: "Yu-Anis Aruga's Website"
   image: img/Miss_Van_y_Ciou.jpg
-  open-graph: true
+  # Open Graphの設定を詳細化
+  open-graph:
+    image: img/Miss_Van_y_Ciou.jpg
+  # Twitter Cardの設定を追加
+  twitter-card:
+    image: img/Miss_Van_y_Ciou.jpg
+    card-style: summary_large_image  # これで大きな画像が表示されます
   google-analytics: "G-23K2TX0WXL"
   navbar:
     left:
@@ -32,10 +38,8 @@ website:
         href: https://www.facebook.com/yuanis.aruga/
       - icon: instagram
         href: https://www.instagram.com/arugaaayyy/
-
   page-footer:
     right: "Built with [Quarto](https://quarto.org/), [RStudio](https://posit.co/), and [website-template](https://github.com/jtr13/quartobooktest)"
-
 format:
   html: 
     theme: flatly 
