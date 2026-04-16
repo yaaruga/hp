@@ -23,11 +23,11 @@ toc-title: メニュ−
 ::: callout-note
 ## 調査担当者
 
-有賀 ゆうアニース Yu-Anis ARUGA（大阪公立大学経済学研究科特別研究員）\
-アドレス: yaarugannw \[at\] gmail.com\
+有賀 ゆうアニース Yu-Anis ARUGA（早稲田大学文学学術院任期付准教授）\
+アドレス: yaaruga \[at\] aoni.waseda.jp\
 プロフィール: <https://yaaruga.github.io/hp/about.html>\
 \
-佐藤 祐菜 Yuna SATO（東京大学社会科学研究所特任研究員）\
+佐藤 祐菜 Yuna SATO（東海大学国際学部特任講師）\
 アドレス: yunasato95 \[at\] gmail.com\
 プロフィール: <https://researchmap.jp/yun_sato>
 :::
@@ -114,7 +114,7 @@ flowchart TD
 
 成果は、学会発表や論文、書籍などで公表される予定です。 ご希望の方には、研究成果がまとまった段階でメール等にてご連絡を差し上げます。
 
--------------------------------------------------------------
+------------------------------------------------------------------------
 
 **研究の基盤について**
 
@@ -124,7 +124,7 @@ flowchart TD
 
 -   有賀ゆうアニース，2022，「「ハーフ」の身体とファッション・メイク――「#和顔ハーフ」から考える」『ZOZO NEXT FASHION TECH NEWS』 [Link](https://fashiontechnews.zozo.com/series/series_fashion_technology/ariga_yu_anis)
 -   佐藤祐菜・有賀ゆうアニース，2022（11月12日），「「ハーフ」の文化社会学に向けて：複数の人種的背景を持つ若者の文化実践についての探索的調査」日本社会学会大会第95回大会．[Link](https://jss-sociology.org/other/20220928post-13540/#108)
--   Sato, Yuna. 2024. “Navigating Boundaries of Japaneseness: Identity Options and Constraints for ‘Invisible’ Multiethnic Individuals in Japan.” As*ian Ethnicity *25 (3): 381–402.
+-   Sato, Yuna. 2024. “Navigating Boundaries of Japaneseness: Identity Options and Constraints for ‘Invisible’ Multiethnic Individuals in Japan.” As*ian Ethnicity* 25 (3): 381–402.
 -   Sato, Yuna. and Yu-Anis Aruga, 2023, Cultural participation and Identities of Multiethnic and Multiracial Youth in Japan,” XX ISA World Congress of Sociology. (Online)
 -   朝日新聞，2024，「「ハーフ」当事者たち、差別経験の語られ方　SNS分析で見えた葛藤」『朝日新聞デジタル』2月28日 [Link](https://www.asahi.com/articles/ASS2V44NRS2NULLI004.html)
 -   有賀ゆうアニース，2024（6月16日），「メディア利用とエスノ人種的境界：インタビューデータの探索的分析から」日本メディア学会2024年度春季大会．[Link](https://researchmap.jp/ya-ruga/presentations/45965599)
