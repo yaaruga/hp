@@ -194,10 +194,10 @@ gtag('config', 'G-23K2TX0WXL', { 'anonymize_ip': true});
   <ul class="collapse">
   <li><a href="#レファレンス" id="toc-レファレンス" class="nav-link" data-scroll-target="#レファレンス">レファレンス</a></li>
   <li><a href="#新聞ニュース" id="toc-新聞ニュース" class="nav-link" data-scroll-target="#新聞ニュース">新聞・ニュース</a></li>
-  <li><a href="#雑誌" id="toc-雑誌" class="nav-link" data-scroll-target="#雑誌">雑誌</a></li>
+  <li><a href="#雑誌書籍" id="toc-雑誌書籍" class="nav-link" data-scroll-target="#雑誌書籍">雑誌・書籍</a></li>
   <li><a href="#放送" id="toc-放送" class="nav-link" data-scroll-target="#放送">放送</a></li>
   <li><a href="#人物" id="toc-人物" class="nav-link" data-scroll-target="#人物">人物</a></li>
-  <li><a href="#internet" id="toc-internet" class="nav-link" data-scroll-target="#internet">インターネット</a></li>
+  <li><a href="#internet" id="toc-internet" class="nav-link" data-scroll-target="#internet">オンラインデータ</a></li>
   <li><a href="#番外編" id="toc-番外編" class="nav-link" data-scroll-target="#番外編">番外編</a></li>
   </ul></li>
   <li><a href="#分析ツール" id="toc-分析ツール" class="nav-link" data-scroll-target="#分析ツール">分析ツール</a></li>
@@ -351,7 +351,7 @@ end
 <ul>
 <li>明治学院大学<a href="https://soc.meijigakuin.ac.jp/manual/dissertation/">「卒業論文執筆の手引き」</a></li>
 <li>藤田真文，2016，『第2版 メディアの卒論：テーマ・方法・実際』ミネルヴァ書房．</li>
-<li>麦山亮太，2025，「Rによる社会調査データ分析の手引き」（https://ryotamugiyama.github.io/seminar_sociology_r</li>
+<li>麦山亮太，2025，<a href="https://ryotamugiyama.github.io/seminar_sociology_r/">「Rによる社会調査データ分析の手引き」</a></li>
 <li>小熊英二，2022，『基礎からわかる論文の書き方』講談社．</li>
 <li>岡本健・松井広志・松本健太郎編，2021，『ゆるレポ：卒論・レポートに役立つ「現代社会」と「メディア・コンテンツ」に関する40の研究』人文書院．</li>
 <li>戸田山和久，2022，『最新版 論文の教室：レポートから卒論まで』NHK出版．</li>
@@ -635,8 +635,8 @@ classDef default fill:#ffffff,stroke:#000000,stroke-width:1px;
 <table class="caption-top table">
 <caption>新聞・ニュースデータベース</caption>
 <colgroup>
-<col style="width: 29%">
-<col style="width: 70%">
+<col style="width: 30%">
+<col style="width: 69%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -668,11 +668,15 @@ classDef default fill:#ffffff,stroke:#000000,stroke-width:1px;
 </tbody>
 </table>
 </section>
-<section id="雑誌" class="level3">
-<h3 data-anchor-id="雑誌">雑誌</h3>
+<section id="雑誌書籍" class="level3">
+<h3 data-anchor-id="雑誌書籍">雑誌・書籍</h3>
 <p>新聞ほどではないがデータベースは充実している。Web OYA-bunkoを使うことが多いが、ほかにも優秀なものが多い。とくに歴史的な分析とかニッチな趣味・集団の分析には適している。</p>
 <table class="caption-top table">
 <caption>雑誌データベース</caption>
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>データベース</th>
@@ -681,31 +685,35 @@ classDef default fill:#ffffff,stroke:#000000,stroke-width:1px;
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://ndlsearch.ndl.go.jp/">NDLサーチ</a></td>
+<td>NDLサーチ</td>
 <td>出版物全般を検索可能。一部は全文検索も可能。</td>
 </tr>
 <tr class="even">
-<td><a href="https://lab.ndl.go.jp/ngramviewer/">NDL Ngram Viewer</a></td>
+<td>Google Ngram Viewer</td>
+<td>Googleがデジタル化した膨大な書籍データ（Google Books）をもとに、特定の語句が過去数世紀にわたって使用されてきた頻度をグラフ化できる。無料。言語件の制約あり。</td>
+</tr>
+<tr class="odd">
+<td>NDL Ngram Viewer</td>
 <td>出版物全般における特定の語彙の頻度を測定する。数十年から数百年のスパンでの推移に関心がある場合に有用。</td>
 </tr>
-<tr class="odd">
-<td><a href="https://www.fujisan.co.jp/">Fujisan.co.jp</a></td>
+<tr class="even">
+<td>Fujisan.co.jp</td>
 <td>国内の一般流通の雑誌全般のデータベース。網羅度は低いが、全文検索ができる。</td>
 </tr>
-<tr class="even">
-<td><a href="https://zassaku-plus.com/service/login?return_url=https://zassaku-plus.com/">ざっさくプラス</a></td>
+<tr class="odd">
+<td>ざっさくプラス</td>
 <td>国内の一般流通の雑誌全般のデータベース。</td>
 </tr>
-<tr class="odd">
-<td><a href="https://www.oya-bunko.com/">Web OYA-bunko</a></td>
+<tr class="even">
+<td>Web OYA-bunko</td>
 <td>国内の一般流通の雑誌全般のデータベース。網羅度は随一で、タグ検索もできる。</td>
 </tr>
-<tr class="even">
-<td><a href="https://www.nikkeimm.co.jp/service/detail/id=273">Nikkei BP</a></td>
+<tr class="odd">
+<td>Nikkei BP</td>
 <td>日本経済新聞グループの雑誌全般のデータベース。</td>
 </tr>
-<tr class="odd">
-<td><a href="https://www.nichigai.co.jp/database/mag-plus.html">MagazinePlus</a></td>
+<tr class="even">
+<td>MagazinePlus</td>
 <td>国内の一般流通の雑誌全般のデータベース。</td>
 </tr>
 </tbody>
@@ -777,11 +785,15 @@ classDef default fill:#ffffff,stroke:#000000,stroke-width:1px;
 </table>
 </section>
 <section id="internet" class="level3">
-<h3 data-anchor-id="internet">インターネット</h3>
+<h3 data-anchor-id="internet">オンラインデータ</h3>
 <p>日本では研究例が少ないが、インターネットのコンテンツやポストをデータとして使うこともある。ある特定の社会現象への公共的な関心を調べたいとか、ある特定のコンテンツの内容、またそうしたコンテンツへのユーザの反応を調べたいとかいった場合にはこうしたデータが用いられる。</p>
 <p>ネット上のコンテンツをデータとして取得するには、API、スクレイピング、マニュアルの3通りがある<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a>。ここではこの細かい違いは無視して、どのツールをつかえばどんなメディアからどんな情報が得られるかを列挙的に紹介する。</p>
 <table class="caption-top table">
 <caption>オンラインデータ取得ツール</caption>
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>ツール</th>
@@ -790,19 +802,19 @@ classDef default fill:#ffffff,stroke:#000000,stroke-width:1px;
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://ytdt.digitalmethods.net/">YouTube Data Tools</a></td>
+<td>YouTube Data Tools</td>
 <td>任意のチャンネルの情報全般、任意のキーワードの検索結果、任意の動画のコメント全体などを取得できる。</td>
 </tr>
 <tr class="even">
-<td><a href="https://exportcomments.com/">exportcomments.com</a></td>
+<td>exportcomments.com</td>
 <td>Facebook, Instagram, Twitter, YouTube, TikTokの特定のポストへのコメントを CSV / Excel で取得。回数と量に制限あり。</td>
 </tr>
 <tr class="odd">
-<td><a href="https://trends.google.co.jp/trends/">Google トレンド</a></td>
+<td>Google トレンド</td>
 <td>2004年から現在までの検索のボリュームを取得することができる。複数のキーワードを検索すれば比較も可能。検索の相対的割合であって絶対量ではないので解釈に工夫が必要。</td>
 </tr>
 <tr class="even">
-<td><a href="https://pageviews.wmcloud.org/?project=en.wikipedia.org&amp;platform=all-access&amp;agent=user&amp;redirects=0&amp;range=latest-20&amp;pages=">Wikipedia Pageview</a></td>
+<td>Wikipedia Pageview</td>
 <td>Google トレンドと並んで使えるのがWikipediaの閲覧数。単純閲覧数を出力するので解釈がしやすい。ただし記事化されていないレベルの知名度のトピックや人物には使えない。</td>
 </tr>
 </tbody>
