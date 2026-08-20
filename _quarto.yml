@@ -49,10 +49,8 @@ format:
     fontsize: 1.2em
     linestretch: 1.6
     toc: true
-    bibliography: BibTex/Website.bib
     link-citations: true
     citeproc: true
-    csl: csl/american-sociological-association.csl
     css: css/style.css
     mermaid:
       theme: neutral
