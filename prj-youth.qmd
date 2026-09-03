@@ -99,7 +99,7 @@ flowchart TD
 
 #### Q. 話したくないことは話さないでもいいですか？
 
-**もちろんです。答えたくない質問に答える必要はまったきありません。** インタビューの途中であっても、言いたくないことは「答えたくない」とおっしゃってください。
+**もちろんです。答えたくない質問に答える必要はまったくありません。** インタビューの途中であっても、言いたくないことは「答えたくない」とおっしゃってください。
 
 #### Q. 個人情報は守られますか？
 
@@ -112,22 +112,27 @@ flowchart TD
 
 #### Q. 研究結果はどうやって見られますか？
 
-成果は、学会発表や論文、書籍などで公表される予定です。 ご希望の方には、研究成果がまとまった段階でメール等にてご連絡を差し上げます。
+成果は、学会発表や論文、書籍などで公表される予定です。前述の通り、発表にあたっては原則として匿名化をさせていただきます。ご希望の方には、研究成果がまとまった段階でメール等にてご連絡を差し上げます。
 
 ------------------------------------------------------------------------
 
 **研究の基盤について**
 
-このプロジェクトは、公的な研究費として、独立行政法人日本学術振興会の研究助成（[課題番号 24KJ0187](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24KJ0187/)）、ならびに大阪公立大学経済学研究科の研究倫理審査委員会による承認を受けています。
+このプロジェクトは、公的な研究費として、独立行政法人日本学術振興会の研究助成（[課題番号24KJ0187](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24KJ0187/)および[課題番号25KJ0057](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25KJ0057/)）、ならびに大阪公立大学経済学研究科の研究倫理審査委員会による承認を受けています。
 
 ## これまでの研究成果 {#これまでの研究成果}
 
+これまでの研究成果を時系列で掲載しています。
+
 -   有賀ゆうアニース，2022，「「ハーフ」の身体とファッション・メイク――「#和顔ハーフ」から考える」『ZOZO NEXT FASHION TECH NEWS』 [Link](https://fashiontechnews.zozo.com/series/series_fashion_technology/ariga_yu_anis)
 -   佐藤祐菜・有賀ゆうアニース，2022（11月12日），「「ハーフ」の文化社会学に向けて：複数の人種的背景を持つ若者の文化実践についての探索的調査」日本社会学会大会第95回大会．[Link](https://jss-sociology.org/other/20220928post-13540/#108)
--   Sato, Yuna. 2024. “Navigating Boundaries of Japaneseness: Identity Options and Constraints for ‘Invisible’ Multiethnic Individuals in Japan.” As*ian Ethnicity* 25 (3): 381–402.
+-   Sato, Yuna. 2024. “Navigating Boundaries of Japaneseness: Identity Options and Constraints for ‘Invisible’ Multiethnic Individuals in Japan.” *Asian Ethnicity* 25 (3): 381–402.
 -   Sato, Yuna. and Yu-Anis Aruga, 2023, Cultural participation and Identities of Multiethnic and Multiracial Youth in Japan,” XX ISA World Congress of Sociology. (Online)
 -   朝日新聞，2024，「「ハーフ」当事者たち、差別経験の語られ方　SNS分析で見えた葛藤」『朝日新聞デジタル』2月28日 [Link](https://www.asahi.com/articles/ASS2V44NRS2NULLI004.html)
 -   有賀ゆうアニース，2024（6月16日），「メディア利用とエスノ人種的境界：インタビューデータの探索的分析から」日本メディア学会2024年度春季大会．[Link](https://researchmap.jp/ya-ruga/presentations/45965599)
+-   有賀ゆうアニース，2024，「日本のなかの人種概念を探究するために：血統の問題と身体の問題」『現代思想』52(14): 89–97．
+-   有賀ゆうアニース，2026，「「日本人」であるとはどういうことか：帰属の政治がつくりだす境界と差別」森千香子・南川文里・村上一基編『国際社会学の技法：考える・実践する・変える』名古屋大学出版会，187–204．
+-   有賀ゆうアニース，2026，「ミックスの若者における外国人親出身国への滞在経験とアイデンティティ」『移民研究年報』32: 79–93．
 
 ## お問い合わせ・申し込み {#contact}
 
