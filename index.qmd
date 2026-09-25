@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Yu-Anis Aruga's Website"
+title: "Yu-Anis Aruga's Website"
 about:
   id: me
   template: trestles
